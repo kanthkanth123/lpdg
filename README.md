@@ -51,3 +51,6 @@ The model-selection plan is time-aware: training examples precede the final scor
 - `DECISIONS.md` — important methodological decisions and rejected alternatives.
 - `AI-USAGE.md` — AI assistance disclosure.
 - `results/predictions.csv` — generated submission file after running `run.sh`.
+- ## 🎥 Project Demo
+
+[▶️ Watch the Project Demonstration](https://youtu.be/N0G6gflJt_g)
