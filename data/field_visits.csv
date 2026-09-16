@@ -1,0 +1,643 @@
+visit_id,gateway_id,requested_on,visited_on,reason_reported,outcome,parts_replaced,technician_hours
+WO-2025-00001,02:30:EE:F7:24:35,2025-02-03,2025-02-05,Auffaellige Statistik,Kein Fehler gefunden,,1.28
+WO-2025-00007,02:CF:FA:3A:3F:35,2025-02-03,2025-02-12,Signal schwach,Kein Fehler gefunden,,0.64
+WO-2025-00004,06:C0:F2:7E:81:0B,2025-02-03,2025-02-14,Keine Verbindung,Kein Fehler gefunden,,1.65
+WO-2025-00003,0A:0B:47:66:4A:85,2025-02-04,2025-02-11,Haeufige Neustarts,Kein Fehler gefunden,,1.08
+WO-2025-00008,0E:E0:9E:DA:64:9F,2025-02-04,2025-02-17,Auffaellige Statistik,Kein Zugang,,0.93
+WO-2025-00005,06:EF:D6:1B:80:ED,2025-02-05,2025-02-19,Routinepruefung,Kein Fehler gefunden,,1.32
+WO-2025-00006,06:34:F7:8D:B4:C5,2025-02-06,2025-02-18,Routinepruefung,Kein Zugang,,1.74
+WO-2025-00002,0A:18:4A:2E:46:B7,2025-02-06,2025-02-12,Routinepruefung,Kein Fehler gefunden,,1.49
+WO-2025-00019,06:FD:A7:D7:B2:2A,2025-02-10,2025-02-17,Keine Verbindung,Kein Zugang,,0.94
+WO-2025-00014,0A:52:DD:E8:96:BF,2025-02-11,2025-02-24,Zaehler nicht gelesen,Kein Fehler gefunden,,1.17
+WO-2025-00016,0A:6D:35:95:37:3D,2025-02-11,2025-02-13,Signal schwach,Kein Fehler gefunden,,1.79
+WO-2025-00015,0A:BE:42:BE:41:65,2025-02-12,2025-02-25,Signal schwach,Kein Fehler gefunden,,0.76
+WO-2025-00020,06:B1:62:DC:93:E3,2025-02-13,2025-02-18,Keine Verbindung,Fehler behoben,Kabel,2.75
+WO-2025-00011,06:D3:88:A1:9D:5D,2025-02-13,2025-02-23,Haeufige Neustarts,Kein Fehler gefunden,,1.06
+WO-2025-00017,0E:34:28:2F:4B:53,2025-02-13,2025-02-24,Keine Verbindung,Fehler behoben,Netzteil,2.38
+WO-2025-00013,0E:97:61:D8:EB:58,2025-02-13,2025-02-15,Zaehler nicht gelesen,Kein Fehler gefunden,,1.1
+WO-2025-00018,02:78:E0:6A:2F:67,2025-02-14,2025-03-03,Auffaellige Statistik,Kein Fehler gefunden,,0.58
+WO-2025-00009,0A:57:33:86:57:F8,2025-02-14,2025-02-21,Haeufige Neustarts,Kein Fehler gefunden,,1.51
+WO-2025-00010,0A:9A:3B:FD:6C:9B,2025-02-14,2025-02-17,Auffaellige Statistik,Kein Zugang,,0.96
+WO-2025-00012,0E:A5:2A:2A:75:81,2025-02-14,2025-02-19,Haeufige Neustarts,Kein Fehler gefunden,,1.03
+WO-2025-00027,02:89:2F:51:E1:CB,2025-02-17,2025-02-22,Routinepruefung,Kein Fehler gefunden,,1.36
+WO-2025-00021,06:4A:ED:1E:C0:AA,2025-02-17,2025-02-24,Keine Verbindung,Fehler behoben,Netzteil,2.73
+WO-2025-00023,02:38:8A:18:85:4F,2025-02-18,2025-02-23,Signal schwach,Kein Fehler gefunden,,1.3
+WO-2025-00028,0E:41:CF:7F:74:D5,2025-02-18,2025-02-24,Kunde meldet Ausfall,Kein Fehler gefunden,,0.72
+WO-2025-00029,0E:50:A5:B2:E5:C4,2025-02-18,2025-03-03,Keine Verbindung,Fehler behoben,Kabel,2.58
+WO-2025-00026,02:17:82:0B:FF:B2,2025-02-19,2025-02-23,Signal schwach,Kein Fehler gefunden,,1.67
+WO-2025-00022,02:1D:82:B5:6A:3F,2025-02-19,2025-03-08,Keine Verbindung,Fehler behoben,SIM-Karte,2.2
+WO-2025-00025,0A:63:90:E0:FB:A4,2025-02-20,2025-03-06,Auffaellige Statistik,Kein Fehler gefunden,,1.0
+WO-2025-00030,06:C0:D5:E3:BC:DB,2025-02-21,2025-03-05,Auffaellige Statistik,Kein Fehler gefunden,,1.55
+WO-2025-00024,0E:EC:B1:08:FF:91,2025-02-21,2025-03-01,Signal schwach,Kein Fehler gefunden,,1.83
+WO-2025-00031,0E:89:2C:46:A4:42,2025-02-24,2025-03-01,Kunde meldet Ausfall,Kein Zugang,,0.93
+WO-2025-00035,0E:E9:49:79:50:EE,2025-02-24,2025-03-04,Haeufige Neustarts,Kein Fehler gefunden,,1.18
+WO-2025-00034,06:2E:A1:13:79:8F,2025-02-26,2025-03-04,Auffaellige Statistik,Kein Zugang,,0.75
+WO-2025-00033,06:4E:66:B5:36:7B,2025-02-27,2025-03-11,Routinepruefung,Kein Fehler gefunden,,0.86
+WO-2025-00038,06:DA:F1:1B:D3:8F,2025-02-27,2025-03-04,Zaehler nicht gelesen,Kein Fehler gefunden,,1.05
+WO-2025-00037,0A:25:F6:E3:46:6C,2025-02-27,2025-03-09,Kunde meldet Ausfall,Kein Fehler gefunden,,0.81
+WO-2025-00036,0A:27:2C:5A:2C:9B,2025-02-27,2025-03-07,Routinepruefung,Kein Fehler gefunden,,1.17
+WO-2025-00032,0A:4E:33:E2:69:2B,2025-02-27,2025-03-15,Auffaellige Statistik,Kein Fehler gefunden,,1.67
+WO-2025-00044,02:C0:F4:5F:31:E7,2025-03-03,2025-03-12,Kunde meldet Ausfall,Kein Fehler gefunden,,1.62
+WO-2025-00041,0A:55:DA:26:6F:71,2025-03-03,2025-03-09,Keine Verbindung,Kein Fehler gefunden,,1.6
+WO-2025-00045,0E:0C:3E:B7:91:5D,2025-03-03,2025-03-07,Signal schwach,Kein Fehler gefunden,,0.91
+WO-2025-00050,02:79:D2:AC:6A:CE,2025-03-04,2025-03-17,Kunde meldet Ausfall,Kein Fehler gefunden,,1.56
+WO-2025-00040,02:D4:DF:EF:40:2A,2025-03-04,2025-03-20,Zaehler nicht gelesen,Kein Fehler gefunden,,1.4
+WO-2025-00046,02:09:7A:B5:8D:3C,2025-03-05,2025-03-10,Routinepruefung,Kein Zugang,,0.62
+WO-2025-00052,02:13:26:77:32:8F,2025-03-05,2025-03-10,Keine Verbindung,Fehler behoben,,2.93
+WO-2025-00051,0E:1B:6F:4D:BA:34,2025-03-05,2025-03-20,Haeufige Neustarts,Kein Fehler gefunden,,0.57
+WO-2025-00043,0E:E3:17:BA:7C:52,2025-03-05,2025-03-16,Kunde meldet Ausfall,Kein Fehler gefunden,,0.57
+WO-2025-00039,02:3A:66:3E:FD:87,2025-03-06,2025-03-18,Zaehler nicht gelesen,Kein Fehler gefunden,,1.52
+WO-2025-00042,0A:4C:88:4F:24:0A,2025-03-06,2025-03-21,Keine Verbindung,Fehler behoben,Gateway getauscht,2.38
+WO-2025-00047,0E:7A:8A:54:14:C2,2025-03-06,2025-03-21,Signal schwach,Kein Fehler gefunden,,1.42
+WO-2025-00049,0E:D1:E9:DB:D5:93,2025-03-06,2025-03-20,Signal schwach,Kein Fehler gefunden,,0.95
+WO-2025-00048,0E:DC:71:77:CC:A9,2025-03-06,2025-03-17,Haeufige Neustarts,Kein Fehler gefunden,,0.64
+WO-2025-00053,02:3A:DD:DE:CF:84,2025-03-07,2025-03-21,Kunde meldet Ausfall,Fehler behoben,Antenne,1.69
+WO-2025-00056,02:32:70:32:0B:57,2025-03-10,2025-03-26,Signal schwach,Kein Zugang,,1.69
+WO-2025-00058,0A:BC:8E:60:F4:C1,2025-03-10,2025-03-15,Auffaellige Statistik,Kein Zugang,,1.64
+WO-2025-00059,0E:E5:1B:79:E8:53,2025-03-10,2025-03-19,Haeufige Neustarts,Kein Fehler gefunden,,0.84
+WO-2025-00066,0E:21:C2:39:D8:65,2025-03-11,2025-03-23,Signal schwach,Kein Fehler gefunden,,1.88
+WO-2025-00061,0E:6A:CE:6D:31:46,2025-03-11,2025-03-28,Routinepruefung,Kein Fehler gefunden,,0.66
+WO-2025-00064,02:7F:E9:CE:D4:89,2025-03-12,2025-03-27,Signal schwach,Kein Fehler gefunden,,1.35
+WO-2025-00055,0A:F9:84:6E:92:DD,2025-03-12,2025-03-18,Kunde meldet Ausfall,Fehler behoben,Gateway getauscht,2.56
+WO-2025-00054,0E:75:2F:1B:29:5C,2025-03-12,2025-03-14,Haeufige Neustarts,Kein Fehler gefunden,,1.83
+WO-2025-00062,0E:9A:30:D9:27:A5,2025-03-12,2025-03-17,Routinepruefung,Kein Fehler gefunden,,0.92
+WO-2025-00067,0A:0B:47:66:4A:85,2025-03-13,2025-03-27,Haeufige Neustarts,Kein Fehler gefunden,,1.33
+WO-2025-00060,0A:18:4A:2E:46:B7,2025-03-13,2025-03-16,Routinepruefung,Kein Zugang,,1.2
+WO-2025-00065,0A:A2:96:FF:24:7D,2025-03-13,2025-03-16,Zaehler nicht gelesen,Kein Fehler gefunden,,1.48
+WO-2025-00057,02:4E:D4:33:BF:7D,2025-03-14,2025-03-22,Haeufige Neustarts,Fehler behoben,Netzteil,3.16
+WO-2025-00063,0E:F4:37:10:8E:63,2025-03-14,2025-03-16,Kunde meldet Ausfall,Kein Fehler gefunden,,1.62
+WO-2025-00076,02:53:BB:40:ED:A6,2025-03-17,2025-03-23,Routinepruefung,Kein Fehler gefunden,,1.44
+WO-2025-00068,02:E1:23:10:18:6C,2025-03-17,2025-04-03,Keine Verbindung,Fehler behoben,SIM-Karte,1.4
+WO-2025-00080,06:C7:7F:EA:95:50,2025-03-17,2025-03-26,Signal schwach,Kein Fehler gefunden,,0.69
+WO-2025-00079,0A:C4:37:02:3B:18,2025-03-17,2025-03-23,Routinepruefung,Kein Fehler gefunden,,1.12
+WO-2025-00073,0A:F8:DC:B9:8E:4B,2025-03-17,2025-03-25,Zaehler nicht gelesen,Fehler behoben,Antenne,3.47
+WO-2025-00070,0E:0A:8D:6E:B6:B9,2025-03-17,2025-03-23,Auffaellige Statistik,Kein Fehler gefunden,,1.86
+WO-2025-00072,02:2C:6F:32:6E:3B,2025-03-18,2025-04-04,Signal schwach,Kein Fehler gefunden,,0.8
+WO-2025-00071,02:CF:FA:3A:3F:35,2025-03-18,2025-04-03,Zaehler nicht gelesen,Fehler behoben,Gateway getauscht,2.48
+WO-2025-00077,02:D7:62:35:52:C8,2025-03-18,2025-03-23,Signal schwach,Kein Fehler gefunden,,1.45
+WO-2025-00081,06:F2:CD:BD:2C:41,2025-03-18,2025-03-27,Zaehler nicht gelesen,Fehler behoben,SIM-Karte,2.48
+WO-2025-00078,0E:A5:2A:2A:75:81,2025-03-19,2025-04-04,Routinepruefung,Kein Fehler gefunden,,0.63
+WO-2025-00075,02:39:AD:51:B7:AF,2025-03-20,2025-03-27,Keine Verbindung,Fehler behoben,Antenne,3.03
+WO-2025-00082,02:F1:8E:EE:02:8A,2025-03-20,2025-04-05,Keine Verbindung,Kein Fehler gefunden,,0.77
+WO-2025-00069,0A:FF:C2:63:C0:D9,2025-03-20,2025-03-26,Auffaellige Statistik,Kein Fehler gefunden,,1.8
+WO-2025-00074,0A:26:8A:7E:40:CD,2025-03-21,2025-04-03,Haeufige Neustarts,Fehler behoben,Antenne,2.85
+WO-2025-00085,0A:9A:3B:FD:6C:9B,2025-03-24,2025-04-08,Signal schwach,Kein Fehler gefunden,,0.66
+WO-2025-00083,0E:1C:62:2E:61:BC,2025-03-24,2025-04-08,Signal schwach,Kein Fehler gefunden,,1.06
+WO-2025-00089,0E:6D:2C:BA:ED:41,2025-03-24,2025-03-31,Routinepruefung,Kein Fehler gefunden,,1.51
+WO-2025-00090,0E:AE:FE:AE:FB:09,2025-03-24,2025-04-06,Signal schwach,Kein Fehler gefunden,,0.94
+WO-2025-00091,02:17:82:0B:FF:B2,2025-03-25,2025-04-10,Keine Verbindung,Fehler behoben,Kabel,2.8
+WO-2025-00084,06:F4:9B:D8:F5:72,2025-03-25,2025-04-04,Signal schwach,Kein Fehler gefunden,,0.63
+WO-2025-00092,06:44:58:22:57:D9,2025-03-26,2025-04-02,Auffaellige Statistik,Kein Fehler gefunden,,1.62
+WO-2025-00095,0A:84:07:CF:4D:85,2025-03-26,2025-04-06,Keine Verbindung,Fehler behoben,Antenne,1.53
+WO-2025-00088,0E:31:C4:29:C1:85,2025-03-26,2025-03-30,Signal schwach,Kein Fehler gefunden,,1.76
+WO-2025-00094,0E:55:F2:8A:B5:69,2025-03-26,2025-03-31,Routinepruefung,Kein Fehler gefunden,,0.7
+WO-2025-00086,0A:57:33:86:57:F8,2025-03-27,2025-04-09,Signal schwach,Kein Fehler gefunden,,0.82
+WO-2025-00093,02:87:64:AA:02:6E,2025-03-28,2025-04-14,Auffaellige Statistik,Kein Fehler gefunden,,1.03
+WO-2025-00087,0A:D2:C9:2E:97:56,2025-03-28,2025-04-12,Zaehler nicht gelesen,Kein Fehler gefunden,,1.12
+WO-2025-00105,06:4E:66:B5:36:7B,2025-03-31,2025-04-04,Auffaellige Statistik,Kein Fehler gefunden,,1.83
+WO-2025-00108,06:93:09:6C:4C:42,2025-03-31,2025-04-09,Routinepruefung,Kein Fehler gefunden,,1.73
+WO-2025-00106,0E:11:3B:01:A9:A2,2025-03-31,2025-04-12,Keine Verbindung,Fehler behoben,,3.59
+WO-2025-00104,0A:10:A5:A5:05:6E,2025-04-01,2025-04-07,Auffaellige Statistik,Kein Zugang,,1.62
+WO-2025-00103,0A:19:C6:2F:4F:6D,2025-04-01,2025-04-04,Signal schwach,Kein Fehler gefunden,,1.49
+WO-2025-00096,0E:46:21:88:40:8C,2025-04-01,2025-04-07,Zaehler nicht gelesen,Fehler behoben,,3.4
+WO-2025-00099,0E:89:F7:D5:B5:BD,2025-04-01,2025-04-13,Haeufige Neustarts,Fehler behoben,Gateway getauscht,1.93
+WO-2025-00101,0E:F0:23:E6:45:2D,2025-04-01,2025-04-10,Keine Verbindung,Fehler behoben,Kabel,2.89
+WO-2025-00107,06:AE:E1:81:F5:95,2025-04-02,2025-04-14,Auffaellige Statistik,Kein Fehler gefunden,,0.9
+WO-2025-00097,02:1D:82:B5:6A:3F,2025-04-03,2025-04-17,Haeufige Neustarts,Fehler behoben,,1.93
+WO-2025-00098,0A:52:DD:E8:96:BF,2025-04-03,2025-04-10,Auffaellige Statistik,Kein Fehler gefunden,,1.78
+WO-2025-00102,0A:A2:F2:CA:B5:0B,2025-04-03,2025-04-05,Haeufige Neustarts,Kein Fehler gefunden,,1.82
+WO-2025-00100,0E:0E:29:96:F5:1A,2025-04-04,2025-04-14,Auffaellige Statistik,Kein Fehler gefunden,,1.56
+WO-2025-00114,06:23:8E:E3:BE:6C,2025-04-07,2025-04-20,Auffaellige Statistik,Kein Fehler gefunden,,0.7
+WO-2025-00111,0E:3D:06:A0:7E:94,2025-04-07,2025-04-21,Keine Verbindung,Fehler behoben,Antenne,2.09
+WO-2025-00112,02:C0:F4:5F:31:E7,2025-04-08,2025-04-12,Kunde meldet Ausfall,Kein Fehler gefunden,,1.6
+WO-2025-00116,06:DA:F1:1B:D3:8F,2025-04-08,2025-04-21,Auffaellige Statistik,Kein Fehler gefunden,,1.89
+WO-2025-00122,02:04:3B:6B:A0:8B,2025-04-09,2025-04-24,Routinepruefung,Kein Fehler gefunden,,1.32
+WO-2025-00120,06:B1:62:DC:93:E3,2025-04-09,2025-04-23,Haeufige Neustarts,Kein Fehler gefunden,,1.28
+WO-2025-00109,0A:7A:AF:DD:9E:11,2025-04-09,2025-04-19,Haeufige Neustarts,Fehler behoben,Gateway getauscht,2.87
+WO-2025-00118,0E:2D:EE:34:58:37,2025-04-09,2025-04-24,Signal schwach,Kein Fehler gefunden,,0.61
+WO-2025-00117,0E:89:2C:46:A4:42,2025-04-09,2025-04-18,Kunde meldet Ausfall,Kein Fehler gefunden,,1.71
+WO-2025-00123,02:B5:C5:AD:C7:92,2025-04-10,2025-04-22,Haeufige Neustarts,Kein Fehler gefunden,,1.5
+WO-2025-00113,0A:78:FA:F4:7B:00,2025-04-10,2025-04-18,Kunde meldet Ausfall,Fehler behoben,,2.5
+WO-2025-00119,0A:95:47:C1:1A:56,2025-04-10,2025-04-27,Auffaellige Statistik,Kein Fehler gefunden,,0.54
+WO-2025-00121,0E:E3:17:BA:7C:52,2025-04-10,2025-04-20,Routinepruefung,Kein Fehler gefunden,,1.78
+WO-2025-00110,0A:66:3B:6B:4B:28,2025-04-11,2025-04-20,Zaehler nicht gelesen,Fehler behoben,Gateway getauscht,1.7
+WO-2025-00115,0A:FE:70:2B:B0:93,2025-04-11,2025-04-15,Kunde meldet Ausfall,Fehler behoben,Netzteil,1.36
+WO-2025-00132,02:07:5B:45:BF:24,2025-04-14,2025-04-20,Routinepruefung,Kein Fehler gefunden,,1.74
+WO-2025-00125,02:32:70:32:0B:57,2025-04-14,2025-04-29,Signal schwach,Kein Zugang,,0.62
+WO-2025-00124,0A:55:DA:26:6F:71,2025-04-14,2025-04-24,Zaehler nicht gelesen,Fehler behoben,Gateway getauscht,1.57
+WO-2025-00135,0E:EC:B1:08:FF:91,2025-04-14,2025-05-01,Auffaellige Statistik,Kein Fehler gefunden,,0.61
+WO-2025-00131,06:0C:57:73:A6:1B,2025-04-15,2025-04-20,Routinepruefung,Kein Fehler gefunden,,1.15
+WO-2025-00127,06:D3:88:A1:9D:5D,2025-04-16,2025-05-02,Signal schwach,Kein Fehler gefunden,,1.73
+WO-2025-00133,0A:25:F6:E3:46:6C,2025-04-16,2025-04-28,Routinepruefung,Kein Fehler gefunden,,0.51
+WO-2025-00134,0A:4C:88:4F:24:0A,2025-04-16,2025-04-23,Signal schwach,Kein Fehler gefunden,,1.08
+WO-2025-00129,0A:4E:33:E2:69:2B,2025-04-16,2025-04-20,Haeufige Neustarts,Kein Fehler gefunden,,0.61
+WO-2025-00128,02:30:D2:61:A1:CD,2025-04-17,2025-05-01,Kunde meldet Ausfall,Kein Fehler gefunden,,1.47
+WO-2025-00137,02:4D:D3:A9:AD:CA,2025-04-17,2025-04-22,Keine Verbindung,Fehler behoben,Gateway getauscht,2.37
+WO-2025-00126,06:98:1F:D8:AA:87,2025-04-18,2025-04-28,Kunde meldet Ausfall,Kein Fehler gefunden,,1.64
+WO-2025-00138,06:F4:0E:A8:76:63,2025-04-18,2025-05-04,Routinepruefung,Kein Fehler gefunden,,0.5
+WO-2025-00130,0E:F4:37:10:8E:63,2025-04-18,2025-05-03,Keine Verbindung,Fehler behoben,SIM-Karte,2.03
+WO-2025-00136,0E:F4:7B:41:0B:41,2025-04-18,2025-04-27,Zaehler nicht gelesen,Fehler behoben,Kabel,3.68
+WO-2025-00141,0A:68:2E:D9:C6:DD,2025-04-21,2025-05-06,Haeufige Neustarts,Fehler behoben,,1.77
+WO-2025-00150,0A:D2:76:FC:5E:27,2025-04-21,2025-05-02,Haeufige Neustarts,Fehler behoben,Netzteil,2.24
+WO-2025-00148,0E:8B:85:66:81:5B,2025-04-21,2025-05-03,Kunde meldet Ausfall,Kein Fehler gefunden,,1.28
+WO-2025-00140,02:53:BB:40:ED:A6,2025-04-22,2025-05-01,Kunde meldet Ausfall,Fehler behoben,Kabel,2.64
+WO-2025-00152,0E:E0:71:F7:B2:4A,2025-04-22,2025-05-01,Kunde meldet Ausfall,Kein Fehler gefunden,,0.82
+WO-2025-00151,02:13:26:77:32:8F,2025-04-23,2025-05-09,Haeufige Neustarts,Fehler behoben,Netzteil,2.93
+WO-2025-00149,06:C7:7F:EA:95:50,2025-04-23,2025-05-01,Keine Verbindung,Fehler behoben,SIM-Karte,2.99
+WO-2025-00146,02:3A:66:3E:FD:87,2025-04-24,2025-04-27,Auffaellige Statistik,Kein Fehler gefunden,,1.55
+WO-2025-00143,02:7F:E9:CE:D4:89,2025-04-24,2025-05-01,Kunde meldet Ausfall,Kein Fehler gefunden,,1.18
+WO-2025-00139,02:89:2F:51:E1:CB,2025-04-24,2025-05-09,Kunde meldet Ausfall,Fehler behoben,Antenne,2.46
+WO-2025-00147,0A:6D:A0:C8:2C:CB,2025-04-24,2025-05-11,Haeufige Neustarts,Fehler behoben,,2.06
+WO-2025-00142,06:34:F7:8D:B4:C5,2025-04-25,2025-04-30,Haeufige Neustarts,Fehler behoben,,2.04
+WO-2025-00144,06:FF:EC:2E:FA:5E,2025-04-25,2025-04-30,Zaehler nicht gelesen,Fehler behoben,,2.33
+WO-2025-00145,0E:B6:B3:1D:8A:FB,2025-04-25,2025-05-02,Kunde meldet Ausfall,Fehler behoben,Gateway getauscht,1.6
+WO-2025-00153,0E:8F:36:DA:B9:C2,2025-04-28,2025-05-13,Auffaellige Statistik,Kein Fehler gefunden,,1.87
+WO-2025-00159,0E:AE:FE:AE:FB:09,2025-04-28,2025-05-02,Keine Verbindung,Kein Fehler gefunden,,0.86
+WO-2025-00161,0E:D5:05:7E:CE:3F,2025-04-28,2025-05-10,Routinepruefung,Kein Fehler gefunden,,1.85
+WO-2025-00164,02:30:EE:F7:24:35,2025-04-29,2025-05-04,Routinepruefung,Kein Fehler gefunden,,1.0
+WO-2025-00160,02:31:4F:9A:91:68,2025-04-29,2025-05-02,Routinepruefung,Kein Fehler gefunden,,1.75
+WO-2025-00157,0A:63:90:E0:FB:A4,2025-04-29,2025-05-11,Routinepruefung,Kein Fehler gefunden,,0.53
+WO-2025-00162,0A:DD:02:AB:69:3D,2025-04-29,2025-05-08,Keine Verbindung,Kein Fehler gefunden,,0.79
+WO-2025-00166,0E:3D:96:23:76:39,2025-04-29,2025-05-03,Routinepruefung,Kein Fehler gefunden,,1.46
+WO-2025-00163,0E:41:CF:7F:74:D5,2025-04-29,2025-05-16,Auffaellige Statistik,Kein Fehler gefunden,,1.51
+WO-2025-00165,0E:0C:3E:B7:91:5D,2025-04-30,2025-05-03,Routinepruefung,Kein Fehler gefunden,,1.3
+WO-2025-00158,0E:BF:1B:27:CD:E1,2025-04-30,2025-05-08,Signal schwach,Kein Fehler gefunden,,0.6
+WO-2025-00155,06:78:75:26:FE:B3,2025-05-01,2025-05-18,Haeufige Neustarts,Fehler behoben,Antenne,2.68
+WO-2025-00167,06:87:F3:6E:02:C6,2025-05-01,2025-05-08,Signal schwach,Kein Fehler gefunden,,0.72
+WO-2025-00154,0E:E9:49:79:50:EE,2025-05-01,2025-05-06,Routinepruefung,Kein Fehler gefunden,,1.11
+WO-2025-00156,0E:5A:9C:EA:80:93,2025-05-02,2025-05-17,Zaehler nicht gelesen,Fehler behoben,,1.76
+WO-2025-00172,02:57:E8:55:DB:CE,2025-05-05,2025-05-17,Signal schwach,Kein Fehler gefunden,,1.82
+WO-2025-00179,0A:5E:96:44:93:74,2025-05-05,2025-05-18,Auffaellige Statistik,Kein Fehler gefunden,,1.45
+WO-2025-00168,0A:A2:F2:CA:B5:0B,2025-05-05,2025-05-14,Haeufige Neustarts,Fehler behoben,Kabel,2.42
+WO-2025-00174,0A:BD:2E:51:3F:79,2025-05-05,2025-05-13,Haeufige Neustarts,Fehler behoben,Gateway getauscht,3.27
+WO-2025-00170,02:3A:DD:DE:CF:84,2025-05-06,2025-05-15,Keine Verbindung,Fehler behoben,Gateway getauscht,1.35
+WO-2025-00175,0A:56:8E:79:FE:F6,2025-05-06,2025-05-23,Zaehler nicht gelesen,Fehler behoben,,3.46
+WO-2025-00176,06:4E:66:B5:36:7B,2025-05-07,2025-05-13,Zaehler nicht gelesen,Kein Fehler gefunden,,1.82
+WO-2025-00173,02:71:37:43:6C:87,2025-05-08,2025-05-21,Auffaellige Statistik,Kein Fehler gefunden,,0.93
+WO-2025-00177,0A:68:DF:0B:3D:07,2025-05-08,2025-05-19,Routinepruefung,Kein Fehler gefunden,,1.23
+WO-2025-00169,0E:1C:62:2E:61:BC,2025-05-08,2025-05-15,Haeufige Neustarts,Kein Fehler gefunden,,1.73
+WO-2025-00178,02:D4:DF:EF:40:2A,2025-05-09,2025-05-19,Auffaellige Statistik,Kein Fehler gefunden,,0.97
+WO-2025-00171,0A:5D:01:7E:40:1E,2025-05-09,2025-05-20,Haeufige Neustarts,Fehler behoben,Gateway getauscht,2.06
+WO-2025-00187,02:98:0E:46:18:59,2025-05-12,2025-05-22,Signal schwach,Kein Fehler gefunden,,1.67
+WO-2025-00188,06:B1:62:DC:93:E3,2025-05-12,2025-05-29,Haeufige Neustarts,Kein Fehler gefunden,,1.51
+WO-2025-00186,02:DC:03:A0:F1:E6,2025-05-13,2025-05-16,Zaehler nicht gelesen,Kein Fehler gefunden,,1.39
+WO-2025-00183,06:C0:F2:7E:81:0B,2025-05-13,2025-05-19,Signal schwach,Kein Fehler gefunden,,1.33
+WO-2025-00181,0A:A9:05:1F:FF:FA,2025-05-13,2025-05-24,Haeufige Neustarts,Fehler behoben,,1.53
+WO-2025-00180,0A:23:47:4F:19:44,2025-05-14,2025-05-21,Kunde meldet Ausfall,Kein Fehler gefunden,,1.25
+WO-2025-00184,02:A8:02:92:CB:97,2025-05-15,2025-05-22,Auffaellige Statistik,Kein Fehler gefunden,,1.71
+WO-2025-00182,0E:9D:C9:14:D8:DF,2025-05-15,2025-05-29,Keine Verbindung,Kein Fehler gefunden,,0.86
+WO-2025-00185,0E:A0:44:7D:A9:1C,2025-05-16,2025-05-19,Haeufige Neustarts,Kein Fehler gefunden,,1.08
+WO-2025-00198,02:BA:D9:19:85:5D,2025-05-19,2025-05-31,Auffaellige Statistik,Kein Fehler gefunden,,0.69
+WO-2025-00191,02:4D:D3:A9:AD:CA,2025-05-20,2025-05-29,Keine Verbindung,Fehler behoben,Antenne,2.4
+WO-2025-00190,06:0C:57:73:A6:1B,2025-05-20,2025-06-05,Keine Verbindung,Fehler behoben,Antenne,2.07
+WO-2025-00193,0A:39:83:03:30:84,2025-05-20,2025-06-02,Signal schwach,Kein Fehler gefunden,,1.86
+WO-2025-00201,02:14:58:26:10:3B,2025-05-21,2025-05-30,Haeufige Neustarts,Fehler behoben,,2.11
+WO-2025-00196,0A:E2:1E:7A:17:E4,2025-05-21,2025-05-30,Signal schwach,Kein Fehler gefunden,,1.01
+WO-2025-00194,02:2D:B4:7C:41:AC,2025-05-22,2025-06-05,Keine Verbindung,Fehler behoben,SIM-Karte,2.85
+WO-2025-00199,06:AE:E1:81:F5:95,2025-05-22,2025-05-27,Haeufige Neustarts,Kein Fehler gefunden,,1.36
+WO-2025-00200,0E:89:2C:46:A4:42,2025-05-22,2025-05-30,Keine Verbindung,Kein Fehler gefunden,,1.37
+WO-2025-00189,02:C0:F4:5F:31:E7,2025-05-23,2025-06-02,Haeufige Neustarts,Fehler behoben,Antenne,1.59
+WO-2025-00192,06:C6:76:19:09:5C,2025-05-23,2025-06-03,Haeufige Neustarts,Fehler behoben,Netzteil,2.62
+WO-2025-00197,0A:66:3B:6B:4B:28,2025-05-23,2025-06-01,Routinepruefung,Kein Fehler gefunden,,1.7
+WO-2025-00195,0E:F0:84:81:B3:33,2025-05-23,2025-06-05,Routinepruefung,Kein Fehler gefunden,,1.52
+WO-2025-00208,0A:B5:F9:C2:1B:F8,2025-05-26,2025-06-08,Haeufige Neustarts,Fehler behoben,,2.93
+WO-2025-00204,0A:FE:70:2B:B0:93,2025-05-26,2025-05-31,Keine Verbindung,Kein Fehler gefunden,,1.48
+WO-2025-00207,0E:1B:6F:4D:BA:34,2025-05-27,2025-05-29,Routinepruefung,Kein Fehler gefunden,,0.71
+WO-2025-00206,02:3A:66:3E:FD:87,2025-05-28,2025-06-09,Routinepruefung,Kein Fehler gefunden,,0.5
+WO-2025-00213,06:C7:7F:EA:95:50,2025-05-28,2025-06-03,Auffaellige Statistik,Kein Fehler gefunden,,1.83
+WO-2025-00203,0A:BE:42:BE:41:65,2025-05-28,2025-06-05,Routinepruefung,Kein Fehler gefunden,,0.79
+WO-2025-00211,0A:F9:84:6E:92:DD,2025-05-28,2025-06-04,Kunde meldet Ausfall,Fehler behoben,Kabel,2.76
+WO-2025-00210,0E:3D:06:A0:7E:94,2025-05-28,2025-05-31,Keine Verbindung,Kein Fehler gefunden,,0.91
+WO-2025-00214,0E:5D:FC:F6:5A:D4,2025-05-28,2025-06-01,Signal schwach,Kein Fehler gefunden,,1.15
+WO-2025-00212,0A:6D:A0:C8:2C:CB,2025-05-29,2025-06-01,Kunde meldet Ausfall,Kein Fehler gefunden,,1.31
+WO-2025-00202,0A:F5:1D:7D:0F:73,2025-05-29,2025-06-02,Zaehler nicht gelesen,Fehler behoben,Kabel,2.5
+WO-2025-00205,02:38:8A:18:85:4F,2025-05-30,2025-06-16,Kunde meldet Ausfall,Fehler behoben,,1.91
+WO-2025-00209,06:93:09:6C:4C:42,2025-05-30,2025-06-11,Keine Verbindung,Kein Fehler gefunden,,0.95
+WO-2025-00222,06:4A:ED:1E:C0:AA,2025-06-02,2025-06-16,Haeufige Neustarts,Fehler behoben,,1.61
+WO-2025-00217,0E:29:3C:5E:46:50,2025-06-02,2025-06-14,Zaehler nicht gelesen,Fehler behoben,Antenne,2.06
+WO-2025-00220,0E:46:21:88:40:8C,2025-06-02,2025-06-10,Signal schwach,Kein Fehler gefunden,,0.94
+WO-2025-00226,02:42:3E:0E:6E:9F,2025-06-03,2025-06-10,Kunde meldet Ausfall,Fehler behoben,Netzteil,3.43
+WO-2025-00228,0A:18:4A:2E:46:B7,2025-06-03,2025-06-10,Zaehler nicht gelesen,Kein Fehler gefunden,,0.61
+WO-2025-00221,0E:AE:FE:AE:FB:09,2025-06-03,2025-06-19,Kunde meldet Ausfall,Kein Fehler gefunden,,1.72
+WO-2025-00223,02:30:EE:F7:24:35,2025-06-04,2025-06-08,Zaehler nicht gelesen,Kein Fehler gefunden,,1.7
+WO-2025-00227,06:34:F7:8D:B4:C5,2025-06-04,2025-06-18,Zaehler nicht gelesen,Kein Fehler gefunden,,1.67
+WO-2025-00224,02:14:2F:01:77:81,2025-06-05,2025-06-14,Kunde meldet Ausfall,Kein Fehler gefunden,,1.67
+WO-2025-00216,06:C9:8D:F4:F0:FA,2025-06-05,2025-06-19,Auffaellige Statistik,Kein Fehler gefunden,,0.58
+WO-2025-00225,0A:80:01:88:C2:0F,2025-06-05,2025-06-12,Auffaellige Statistik,Kein Zugang,,0.53
+WO-2025-00215,0E:0C:3E:B7:91:5D,2025-06-05,2025-06-18,Auffaellige Statistik,Kein Fehler gefunden,,0.72
+WO-2025-00218,0E:6A:CE:6D:31:46,2025-06-05,2025-06-22,Keine Verbindung,Kein Fehler gefunden,,1.88
+WO-2025-00219,02:6A:60:07:FA:48,2025-06-06,2025-06-17,Auffaellige Statistik,Kein Fehler gefunden,,1.35
+WO-2025-00235,0A:42:B2:DB:63:70,2025-06-10,2025-06-25,Kunde meldet Ausfall,Fehler behoben,,2.46
+WO-2025-00230,02:79:D2:AC:6A:CE,2025-06-11,2025-06-18,Keine Verbindung,Kein Fehler gefunden,,1.62
+WO-2025-00229,0A:19:C6:2F:4F:6D,2025-06-11,2025-06-13,Signal schwach,Kein Fehler gefunden,,0.52
+WO-2025-00233,0A:63:24:E3:E0:43,2025-06-12,2025-06-29,Keine Verbindung,Fehler behoben,Antenne,2.78
+WO-2025-00231,0A:A2:F2:CA:B5:0B,2025-06-12,2025-06-29,Auffaellige Statistik,Kein Fehler gefunden,,0.88
+WO-2025-00232,06:DF:11:8D:79:89,2025-06-13,2025-06-16,Zaehler nicht gelesen,Kein Fehler gefunden,,0.73
+WO-2025-00234,0E:75:2F:1B:29:5C,2025-06-13,2025-06-19,Zaehler nicht gelesen,Fehler behoben,Antenne,3.06
+WO-2025-00239,02:4E:D4:33:BF:7D,2025-06-16,2025-07-02,Haeufige Neustarts,Kein Fehler gefunden,,0.53
+WO-2025-00238,0E:69:C6:4B:6E:57,2025-06-16,2025-06-28,Keine Verbindung,Fehler behoben,SIM-Karte,2.42
+WO-2025-00244,02:30:D2:61:A1:CD,2025-06-17,2025-06-27,Signal schwach,Kein Fehler gefunden,,1.45
+WO-2025-00236,0A:10:20:1A:FE:0A,2025-06-17,2025-06-24,Keine Verbindung,Fehler behoben,Kabel,1.77
+WO-2025-00243,0A:EF:10:F3:A9:94,2025-06-17,2025-06-25,Zaehler nicht gelesen,Kein Fehler gefunden,,0.51
+WO-2025-00245,0E:8C:F9:CA:52:6F,2025-06-17,2025-06-19,Zaehler nicht gelesen,Kein Fehler gefunden,,1.75
+WO-2025-00247,02:9C:03:C2:BF:19,2025-06-18,2025-07-02,Kunde meldet Ausfall,Kein Fehler gefunden,,0.54
+WO-2025-00240,0E:7A:8A:54:14:C2,2025-06-18,2025-06-27,Keine Verbindung,Kein Fehler gefunden,,1.69
+WO-2025-00237,0E:8B:85:66:81:5B,2025-06-18,2025-06-20,Haeufige Neustarts,Kein Fehler gefunden,,1.71
+WO-2025-00246,0A:68:DF:0B:3D:07,2025-06-19,2025-06-28,Auffaellige Statistik,Kein Fehler gefunden,,0.78
+WO-2025-00242,06:D0:34:22:53:A0,2025-06-20,2025-07-06,Keine Verbindung,Fehler behoben,SIM-Karte,3.38
+WO-2025-00241,06:ED:BA:E6:4B:57,2025-06-20,2025-06-27,Zaehler nicht gelesen,Kein Fehler gefunden,,0.91
+WO-2025-00249,02:57:E8:55:DB:CE,2025-06-23,2025-07-04,Kunde meldet Ausfall,Fehler behoben,Netzteil,2.64
+WO-2025-00258,06:0C:57:73:A6:1B,2025-06-23,2025-07-03,Signal schwach,Kein Fehler gefunden,,0.93
+WO-2025-00252,0A:23:47:4F:19:44,2025-06-23,2025-07-04,Kunde meldet Ausfall,Kein Fehler gefunden,,1.34
+WO-2025-00255,0A:D2:76:FC:5E:27,2025-06-23,2025-07-01,Haeufige Neustarts,Fehler behoben,Netzteil,3.2
+WO-2025-00248,0A:F8:DC:B9:8E:4B,2025-06-23,2025-07-09,Kunde meldet Ausfall,Fehler behoben,Antenne,1.83
+WO-2025-00259,02:2C:6F:32:6E:3B,2025-06-24,2025-07-02,Zaehler nicht gelesen,Kein Fehler gefunden,,1.6
+WO-2025-00254,02:89:2F:51:E1:CB,2025-06-24,2025-07-02,Haeufige Neustarts,Fehler behoben,Antenne,3.0
+WO-2025-00256,06:B6:41:B7:5B:29,2025-06-24,2025-07-11,Haeufige Neustarts,Kein Fehler gefunden,,1.46
+WO-2025-00251,06:1A:43:22:74:5C,2025-06-25,2025-07-04,Signal schwach,Kein Fehler gefunden,,1.02
+WO-2025-00257,06:39:EA:56:02:C1,2025-06-25,2025-07-11,Routinepruefung,Kein Fehler gefunden,,1.88
+WO-2025-00253,0E:25:75:C7:EE:05,2025-06-25,2025-07-02,Auffaellige Statistik,Kein Fehler gefunden,,0.63
+WO-2025-00260,06:85:53:B3:AA:23,2025-06-26,2025-07-09,Signal schwach,Kein Fehler gefunden,,1.89
+WO-2025-00250,0A:55:DA:26:6F:71,2025-06-26,2025-07-08,Haeufige Neustarts,Fehler behoben,Netzteil,3.15
+WO-2025-00261,0E:F0:84:81:B3:33,2025-06-27,2025-07-10,Haeufige Neustarts,Kein Fehler gefunden,,0.62
+WO-2025-00266,0A:66:3B:6B:4B:28,2025-06-30,2025-07-16,Kunde meldet Ausfall,Fehler behoben,Kabel,1.41
+WO-2025-00270,0E:F0:23:E6:45:2D,2025-06-30,2025-07-13,Kunde meldet Ausfall,Fehler behoben,Kabel,1.78
+WO-2025-00271,02:F5:CE:77:05:EC,2025-07-02,2025-07-15,Kunde meldet Ausfall,Fehler behoben,Gateway getauscht,3.08
+WO-2025-00268,0E:97:61:D8:EB:58,2025-07-02,2025-07-16,Auffaellige Statistik,Kein Fehler gefunden,,1.76
+WO-2025-00265,0A:6D:A0:C8:2C:CB,2025-07-03,2025-07-19,Keine Verbindung,Fehler behoben,,3.61
+WO-2025-00264,0A:FE:70:2B:B0:93,2025-07-03,2025-07-07,Zaehler nicht gelesen,Fehler behoben,,2.87
+WO-2025-00262,06:C0:D5:E3:BC:DB,2025-07-04,2025-07-14,Kunde meldet Ausfall,Fehler behoben,Netzteil,3.23
+WO-2025-00272,0A:1F:B1:C9:8A:92,2025-07-04,2025-07-06,Auffaellige Statistik,Kein Zugang,,1.2
+WO-2025-00263,0A:A9:05:1F:FF:FA,2025-07-04,2025-07-21,Auffaellige Statistik,Kein Fehler gefunden,,0.81
+WO-2025-00267,0A:B5:F9:C2:1B:F8,2025-07-04,2025-07-19,Kunde meldet Ausfall,Fehler behoben,Netzteil,3.74
+WO-2025-00269,0E:21:C2:39:D8:65,2025-07-04,2025-07-12,Haeufige Neustarts,Fehler behoben,Kabel,2.19
+WO-2025-00281,02:07:5B:45:BF:24,2025-07-07,2025-07-11,Signal schwach,Kein Zugang,,1.16
+WO-2025-00284,02:25:13:88:D3:A2,2025-07-08,2025-07-16,Keine Verbindung,Kein Fehler gefunden,,1.29
+WO-2025-00285,02:6A:60:07:FA:48,2025-07-08,2025-07-12,Routinepruefung,Kein Fehler gefunden,,1.59
+WO-2025-00278,06:13:2D:73:96:F8,2025-07-08,2025-07-11,Routinepruefung,Kein Fehler gefunden,,1.38
+WO-2025-00273,0E:46:21:88:40:8C,2025-07-08,2025-07-12,Kunde meldet Ausfall,Kein Fehler gefunden,,0.82
+WO-2025-00282,06:4B:E1:9B:0A:9E,2025-07-09,2025-07-16,Zaehler nicht gelesen,Fehler behoben,SIM-Karte,2.25
+WO-2025-00277,06:CE:0F:3C:FB:3C,2025-07-09,2025-07-16,Kunde meldet Ausfall,Fehler behoben,,3.02
+WO-2025-00280,0A:10:A5:A5:05:6E,2025-07-09,2025-07-25,Kunde meldet Ausfall,Fehler behoben,,1.29
+WO-2025-00275,02:09:1D:F7:CC:B8,2025-07-10,2025-07-22,Signal schwach,Kein Fehler gefunden,,1.08
+WO-2025-00276,02:8B:24:EA:DD:AD,2025-07-10,2025-07-18,Signal schwach,Kein Fehler gefunden,,1.23
+WO-2025-00283,0A:84:07:CF:4D:85,2025-07-10,2025-07-16,Kunde meldet Ausfall,Fehler behoben,Netzteil,2.21
+WO-2025-00279,0E:6D:2C:BA:ED:41,2025-07-10,2025-07-22,Auffaellige Statistik,Kein Fehler gefunden,,1.29
+WO-2025-00286,0E:E0:9E:DA:64:9F,2025-07-10,2025-07-18,Routinepruefung,Kein Fehler gefunden,,1.68
+WO-2025-00274,0E:1D:7C:A1:DB:0C,2025-07-11,2025-07-19,Kunde meldet Ausfall,Fehler behoben,,1.51
+WO-2025-00291,0E:D5:05:7E:CE:3F,2025-07-14,2025-07-31,Haeufige Neustarts,Fehler behoben,Kabel,3.06
+WO-2025-00298,06:F4:9B:D8:F5:72,2025-07-15,2025-07-17,Auffaellige Statistik,Kein Fehler gefunden,,0.82
+WO-2025-00296,0A:5D:01:7E:40:1E,2025-07-15,2025-07-18,Signal schwach,Kein Fehler gefunden,,1.56
+WO-2025-00295,0E:8F:36:DA:B9:C2,2025-07-15,2025-07-28,Kunde meldet Ausfall,Fehler behoben,,3.39
+WO-2025-00294,02:C0:F4:5F:31:E7,2025-07-16,2025-07-26,Routinepruefung,Kein Fehler gefunden,,0.76
+WO-2025-00299,06:9A:98:DE:EB:1D,2025-07-16,2025-07-23,Haeufige Neustarts,Fehler behoben,,1.28
+WO-2025-00293,0A:42:B2:DB:63:70,2025-07-16,2025-07-25,Routinepruefung,Kein Fehler gefunden,,1.44
+WO-2025-00297,0E:5A:9C:EA:80:93,2025-07-16,2025-07-29,Zaehler nicht gelesen,Fehler behoben,Antenne,2.75
+WO-2025-00289,02:D4:9A:34:B2:FE,2025-07-17,2025-08-03,Keine Verbindung,Fehler behoben,Netzteil,1.85
+WO-2025-00288,06:98:1F:D8:AA:87,2025-07-17,2025-07-27,Haeufige Neustarts,Fehler behoben,Antenne,1.42
+WO-2025-00292,0A:A2:96:FF:24:7D,2025-07-17,2025-07-29,Routinepruefung,Kein Fehler gefunden,,1.57
+WO-2025-00287,0E:0A:8D:6E:B6:B9,2025-07-18,2025-08-01,Haeufige Neustarts,Fehler behoben,,2.73
+WO-2025-00290,0E:E7:8E:43:17:BB,2025-07-18,2025-08-04,Zaehler nicht gelesen,Kein Fehler gefunden,,0.98
+WO-2025-00302,0A:E2:1E:7A:17:E4,2025-07-21,2025-08-06,Routinepruefung,Kein Fehler gefunden,,1.8
+WO-2025-00310,0E:3D:06:A0:7E:94,2025-07-21,2025-07-28,Keine Verbindung,Fehler behoben,Netzteil,3.77
+WO-2025-00307,02:3A:DD:DE:CF:84,2025-07-22,2025-08-07,Haeufige Neustarts,Fehler behoben,Gateway getauscht,1.66
+WO-2025-00308,02:45:70:73:9D:E0,2025-07-22,2025-08-02,Keine Verbindung,Fehler behoben,Kabel,1.96
+WO-2025-00309,06:23:8E:E3:BE:6C,2025-07-22,2025-07-27,Zaehler nicht gelesen,Kein Fehler gefunden,,1.37
+WO-2025-00305,0E:0C:3E:B7:91:5D,2025-07-22,2025-08-06,Signal schwach,Kein Fehler gefunden,,1.62
+WO-2025-00306,02:14:2F:01:77:81,2025-07-23,2025-08-02,Kunde meldet Ausfall,Kein Fehler gefunden,,1.31
+WO-2025-00304,02:59:99:1B:A0:36,2025-07-23,2025-07-28,Kunde meldet Ausfall,Fehler behoben,,1.52
+WO-2025-00303,02:D7:62:35:52:C8,2025-07-23,2025-08-03,Zaehler nicht gelesen,Fehler behoben,Gateway getauscht,3.74
+WO-2025-00301,0E:29:3C:5E:46:50,2025-07-24,2025-08-08,Zaehler nicht gelesen,Kein Fehler gefunden,,0.64
+WO-2025-00311,02:7B:2D:C4:EA:84,2025-07-25,2025-08-05,Keine Verbindung,Fehler behoben,,3.13
+WO-2025-00312,0A:E6:BF:39:C7:20,2025-07-25,2025-08-03,Keine Verbindung,Fehler behoben,Netzteil,3.5
+WO-2025-00300,0E:8B:85:66:81:5B,2025-07-25,2025-07-31,Kunde meldet Ausfall,Fehler behoben,,3.31
+WO-2025-00313,0E:F4:37:10:8E:63,2025-07-25,2025-07-29,Auffaellige Statistik,Kein Fehler gefunden,,0.71
+WO-2025-00324,06:93:57:B9:F1:5F,2025-07-28,2025-08-14,Keine Verbindung,Fehler behoben,Kabel,2.13
+WO-2025-00316,0A:52:DD:E8:96:BF,2025-07-28,2025-08-05,Signal schwach,Kein Fehler gefunden,,1.84
+WO-2025-00320,02:14:58:26:10:3B,2025-07-29,2025-07-31,Auffaellige Statistik,Kein Fehler gefunden,,0.87
+WO-2025-00326,02:2D:B4:7C:41:AC,2025-07-29,2025-08-04,Zaehler nicht gelesen,Fehler behoben,Antenne,3.68
+WO-2025-00327,0A:55:DA:26:6F:71,2025-07-29,2025-08-06,Haeufige Neustarts,Kein Fehler gefunden,,1.49
+WO-2025-00318,0A:68:F3:8A:6A:CF,2025-07-29,2025-07-31,Signal schwach,Kein Fehler gefunden,,1.46
+WO-2025-00323,0E:0E:29:96:F5:1A,2025-07-29,2025-08-04,Keine Verbindung,Fehler behoben,Antenne,3.21
+WO-2025-00322,0E:27:28:C4:81:CA,2025-07-29,2025-08-12,Routinepruefung,Kein Fehler gefunden,,1.45
+WO-2025-00328,0A:78:FA:F4:7B:00,2025-07-30,2025-08-06,Haeufige Neustarts,Kein Fehler gefunden,,1.12
+WO-2025-00321,06:B6:41:B7:5B:29,2025-07-31,2025-08-02,Kunde meldet Ausfall,Kein Fehler gefunden,,0.57
+WO-2025-00319,0A:10:37:E9:0A:63,2025-07-31,2025-08-06,Auffaellige Statistik,Kein Fehler gefunden,,1.83
+WO-2025-00317,0E:12:1B:6B:86:61,2025-07-31,2025-08-11,Keine Verbindung,Fehler behoben,Kabel,3.36
+WO-2025-00315,02:02:CB:0A:6B:1F,2025-08-01,2025-08-14,Signal schwach,Kein Fehler gefunden,,1.59
+WO-2025-00325,02:09:7A:B5:8D:3C,2025-08-01,2025-08-16,Keine Verbindung,Kein Fehler gefunden,,0.87
+WO-2025-00314,0A:96:EA:CD:80:70,2025-08-01,2025-08-18,Zaehler nicht gelesen,Fehler behoben,Kabel,2.07
+WO-2025-00339,0A:A3:F1:8D:E5:50,2025-08-05,2025-08-17,Haeufige Neustarts,Kein Fehler gefunden,,1.25
+WO-2025-00334,0E:E3:17:BA:7C:52,2025-08-05,2025-08-19,Keine Verbindung,Fehler behoben,,3.0
+WO-2025-00331,02:30:EE:F7:24:35,2025-08-07,2025-08-19,Routinepruefung,Kein Fehler gefunden,,1.01
+WO-2025-00332,02:38:8A:18:85:4F,2025-08-07,2025-08-17,Kunde meldet Ausfall,Fehler behoben,Antenne,1.69
+WO-2025-00333,0A:5E:96:44:93:74,2025-08-07,2025-08-17,Kunde meldet Ausfall,Kein Fehler gefunden,,1.6
+WO-2025-00335,0E:5D:FC:F6:5A:D4,2025-08-07,2025-08-23,Routinepruefung,Kein Fehler gefunden,,0.63
+WO-2025-00338,02:57:E8:55:DB:CE,2025-08-08,2025-08-14,Kunde meldet Ausfall,Kein Fehler gefunden,,1.74
+WO-2025-00336,02:B5:C5:AD:C7:92,2025-08-08,2025-08-11,Signal schwach,Kein Fehler gefunden,,1.64
+WO-2025-00337,0A:0B:47:66:4A:85,2025-08-08,2025-08-21,Auffaellige Statistik,Kein Fehler gefunden,,1.67
+WO-2025-00330,0A:71:A6:F9:D6:C6,2025-08-08,2025-08-11,Routinepruefung,Kein Fehler gefunden,,0.83
+WO-2025-00329,0A:A1:8F:33:0F:59,2025-08-08,2025-08-15,Zaehler nicht gelesen,Kein Fehler gefunden,,0.59
+WO-2025-00346,02:89:2F:51:E1:CB,2025-08-12,2025-08-25,Haeufige Neustarts,Fehler behoben,,3.05
+WO-2025-00345,0A:66:3B:6B:4B:28,2025-08-12,2025-08-24,Haeufige Neustarts,Fehler behoben,Gateway getauscht,2.51
+WO-2025-00352,0A:FB:7B:31:19:96,2025-08-12,2025-08-25,Keine Verbindung,Fehler behoben,Netzteil,3.33
+WO-2025-00350,0E:69:C6:4B:6E:57,2025-08-12,2025-08-16,Signal schwach,Kein Zugang,,0.98
+WO-2025-00341,0E:6A:77:94:AF:C7,2025-08-13,2025-08-21,Kunde meldet Ausfall,Fehler behoben,Antenne,3.64
+WO-2025-00343,06:4A:ED:1E:C0:AA,2025-08-14,2025-08-24,Kunde meldet Ausfall,Kein Fehler gefunden,,0.6
+WO-2025-00348,0E:46:21:88:40:8C,2025-08-14,2025-08-18,Signal schwach,Kein Fehler gefunden,,1.9
+WO-2025-00344,02:1D:82:B5:6A:3F,2025-08-15,2025-08-30,Kunde meldet Ausfall,Fehler behoben,SIM-Karte,2.98
+WO-2025-00342,02:6A:60:07:FA:48,2025-08-15,2025-08-28,Kunde meldet Ausfall,Fehler behoben,Kabel,1.63
+WO-2025-00349,02:9C:03:C2:BF:19,2025-08-15,2025-08-28,Zaehler nicht gelesen,Fehler behoben,Antenne,2.38
+WO-2025-00347,06:C6:76:19:09:5C,2025-08-15,2025-08-18,Routinepruefung,Kein Fehler gefunden,,1.7
+WO-2025-00340,0A:25:F6:E3:46:6C,2025-08-15,2025-08-25,Routinepruefung,Kein Fehler gefunden,,1.12
+WO-2025-00351,0A:8E:A8:7B:B0:37,2025-08-15,2025-08-19,Haeufige Neustarts,Kein Fehler gefunden,,1.56
+WO-2025-00353,0A:97:4F:5D:7D:8C,2025-08-15,2025-08-18,Haeufige Neustarts,Fehler behoben,Kabel,1.86
+WO-2025-00364,02:13:26:77:32:8F,2025-08-18,2025-08-20,Routinepruefung,Kein Fehler gefunden,,1.27
+WO-2025-00358,02:32:70:32:0B:57,2025-08-18,2025-09-02,Auffaellige Statistik,Kein Fehler gefunden,,0.81
+WO-2025-00355,0A:7A:AF:DD:9E:11,2025-08-18,2025-08-29,Haeufige Neustarts,Fehler behoben,SIM-Karte,3.07
+WO-2025-00360,0E:03:D8:F6:98:53,2025-08-18,2025-08-30,Haeufige Neustarts,Fehler behoben,SIM-Karte,3.28
+WO-2025-00354,06:0E:E3:CB:47:79,2025-08-19,2025-08-25,Keine Verbindung,Fehler behoben,SIM-Karte,1.6
+WO-2025-00359,06:FD:A7:D7:B2:2A,2025-08-20,2025-08-28,Zaehler nicht gelesen,Fehler behoben,,2.48
+WO-2025-00357,06:90:3F:98:8F:32,2025-08-21,2025-09-05,Keine Verbindung,Fehler behoben,Antenne,2.14
+WO-2025-00361,06:D3:88:A1:9D:5D,2025-08-21,2025-08-23,Signal schwach,Kein Fehler gefunden,,0.99
+WO-2025-00356,06:CE:0F:3C:FB:3C,2025-08-22,2025-09-06,Zaehler nicht gelesen,Fehler behoben,Antenne,2.46
+WO-2025-00363,0A:19:C6:2F:4F:6D,2025-08-22,2025-09-06,Kunde meldet Ausfall,Fehler behoben,,1.93
+WO-2025-00362,0E:C8:A3:5D:0C:20,2025-08-22,2025-08-29,Haeufige Neustarts,Fehler behoben,,1.84
+WO-2025-00367,02:7F:E9:CE:D4:89,2025-08-25,2025-08-29,Haeufige Neustarts,Kein Zugang,,0.88
+WO-2025-00375,02:FB:DD:4A:2C:43,2025-08-25,2025-09-11,Keine Verbindung,Fehler behoben,Antenne,1.45
+WO-2025-00373,0E:EC:B1:08:FF:91,2025-08-25,2025-08-27,Keine Verbindung,Kein Fehler gefunden,,1.04
+WO-2025-00374,0E:E9:49:79:50:EE,2025-08-26,2025-09-05,Kunde meldet Ausfall,Kein Fehler gefunden,,1.56
+WO-2025-00377,02:D7:62:35:52:C8,2025-08-27,2025-09-02,Kunde meldet Ausfall,Fehler behoben,Netzteil,1.29
+WO-2025-00370,06:78:75:26:FE:B3,2025-08-27,2025-09-13,Keine Verbindung,Fehler behoben,SIM-Karte,2.44
+WO-2025-00368,0A:15:BC:62:8A:FC,2025-08-28,2025-09-02,Haeufige Neustarts,Fehler behoben,Netzteil,2.81
+WO-2025-00376,0A:1F:B1:C9:8A:92,2025-08-28,2025-09-01,Auffaellige Statistik,Kein Fehler gefunden,,0.62
+WO-2025-00369,0A:48:56:68:F5:C0,2025-08-28,2025-09-10,Zaehler nicht gelesen,Kein Fehler gefunden,,1.87
+WO-2025-00366,0A:F9:84:6E:92:DD,2025-08-28,2025-09-01,Signal schwach,Kein Fehler gefunden,,1.17
+WO-2025-00371,0E:1B:6F:4D:BA:34,2025-08-28,2025-09-06,Haeufige Neustarts,Fehler behoben,Antenne,3.02
+WO-2025-00365,0E:75:2F:1B:29:5C,2025-08-28,2025-09-14,Haeufige Neustarts,Fehler behoben,Gateway getauscht,3.73
+WO-2025-00372,02:7D:07:FC:97:FC,2025-08-29,2025-09-13,Kunde meldet Ausfall,Fehler behoben,,3.0
+WO-2025-00382,02:D4:DF:EF:40:2A,2025-09-01,2025-09-07,Kunde meldet Ausfall,Kein Fehler gefunden,,1.06
+WO-2025-00391,02:EB:C6:CD:43:98,2025-09-01,2025-09-17,Routinepruefung,Kein Fehler gefunden,,1.02
+WO-2025-00379,02:2D:B4:7C:41:AC,2025-09-02,2025-09-09,Auffaellige Statistik,Kein Fehler gefunden,,0.72
+WO-2025-00383,0A:68:2E:D9:C6:DD,2025-09-02,2025-09-18,Signal schwach,Kein Fehler gefunden,,1.78
+WO-2025-00387,0E:97:61:D8:EB:58,2025-09-02,2025-09-07,Signal schwach,Kein Fehler gefunden,,0.65
+WO-2025-00392,06:4B:E1:9B:0A:9E,2025-09-03,2025-09-09,Signal schwach,Kein Fehler gefunden,,0.59
+WO-2025-00386,0A:B6:B4:5C:77:5A,2025-09-03,2025-09-13,Keine Verbindung,Fehler behoben,Netzteil,2.83
+WO-2025-00384,0A:F8:DC:B9:8E:4B,2025-09-03,2025-09-14,Auffaellige Statistik,Kein Fehler gefunden,,1.78
+WO-2025-00388,02:47:8C:D9:0F:3A,2025-09-04,2025-09-14,Routinepruefung,Kein Fehler gefunden,,1.82
+WO-2025-00381,0A:57:33:86:57:F8,2025-09-04,2025-09-11,Auffaellige Statistik,Kein Fehler gefunden,,0.52
+WO-2025-00380,0A:96:EA:CD:80:70,2025-09-04,2025-09-07,Haeufige Neustarts,Kein Fehler gefunden,,1.09
+WO-2025-00390,0A:9A:3B:FD:6C:9B,2025-09-04,2025-09-16,Signal schwach,Kein Fehler gefunden,,0.86
+WO-2025-00389,02:09:1D:F7:CC:B8,2025-09-05,2025-09-22,Zaehler nicht gelesen,Fehler behoben,Netzteil,3.06
+WO-2025-00385,0A:D2:76:FC:5E:27,2025-09-05,2025-09-11,Auffaellige Statistik,Kein Fehler gefunden,,0.78
+WO-2025-00378,0E:41:CF:7F:74:D5,2025-09-05,2025-09-17,Routinepruefung,Kein Fehler gefunden,,0.85
+WO-2025-00397,06:B6:41:B7:5B:29,2025-09-09,2025-09-24,Kunde meldet Ausfall,Kein Fehler gefunden,,1.24
+WO-2025-00394,0A:A1:8F:33:0F:59,2025-09-10,2025-09-26,Zaehler nicht gelesen,Fehler behoben,Kabel,3.7
+WO-2025-00398,02:17:82:0B:FF:B2,2025-09-11,2025-09-15,Auffaellige Statistik,Kein Fehler gefunden,,1.74
+WO-2025-00395,06:F4:9B:D8:F5:72,2025-09-11,2025-09-22,Kunde meldet Ausfall,Fehler behoben,Kabel,3.57
+WO-2025-00396,02:87:64:AA:02:6E,2025-09-12,2025-09-25,Kunde meldet Ausfall,Kein Fehler gefunden,,0.63
+WO-2025-00393,02:F5:CE:77:05:EC,2025-09-12,2025-09-28,Kunde meldet Ausfall,Fehler behoben,,1.82
+WO-2025-00399,0A:5C:14:39:B3:84,2025-09-12,2025-09-21,Signal schwach,Kein Fehler gefunden,,1.07
+WO-2025-00407,0A:68:F3:8A:6A:CF,2025-09-15,2025-09-28,Kunde meldet Ausfall,Fehler behoben,Kabel,2.31
+WO-2025-00408,0E:27:28:C4:81:CA,2025-09-15,2025-09-30,Keine Verbindung,Kein Fehler gefunden,,1.67
+WO-2025-00405,0E:61:D3:4F:99:93,2025-09-15,2025-09-20,Zaehler nicht gelesen,Kein Fehler gefunden,,1.16
+WO-2025-00404,02:DC:03:A0:F1:E6,2025-09-16,2025-09-18,Routinepruefung,Kein Fehler gefunden,,1.09
+WO-2025-00402,0E:E0:71:F7:B2:4A,2025-09-16,2025-09-26,Zaehler nicht gelesen,Fehler behoben,Netzteil,2.09
+WO-2025-00411,02:07:5B:45:BF:24,2025-09-18,2025-09-28,Zaehler nicht gelesen,Fehler behoben,SIM-Karte,1.94
+WO-2025-00400,0A:A4:73:D2:FC:17,2025-09-18,2025-09-26,Keine Verbindung,Kein Fehler gefunden,,0.94
+WO-2025-00412,0A:F1:F0:E3:B6:40,2025-09-18,2025-10-01,Signal schwach,Kein Fehler gefunden,,1.36
+WO-2025-00409,0A:27:2C:5A:2C:9B,2025-09-19,2025-10-06,Auffaellige Statistik,Kein Fehler gefunden,,1.69
+WO-2025-00406,0A:A4:B0:65:E5:A5,2025-09-19,2025-09-28,Keine Verbindung,Fehler behoben,,3.51
+WO-2025-00401,0A:FF:C2:63:C0:D9,2025-09-19,2025-09-22,Kunde meldet Ausfall,Fehler behoben,Antenne,1.99
+WO-2025-00410,0E:89:2C:46:A4:42,2025-09-19,2025-09-27,Signal schwach,Kein Fehler gefunden,,1.39
+WO-2025-00403,0E:F4:37:10:8E:63,2025-09-19,2025-09-30,Signal schwach,Kein Zugang,,0.78
+WO-2025-00413,06:98:1F:D8:AA:87,2025-09-22,2025-10-08,Haeufige Neustarts,Kein Fehler gefunden,,1.82
+WO-2025-00415,0A:B5:F9:C2:1B:F8,2025-09-23,2025-09-27,Routinepruefung,Kein Fehler gefunden,,1.67
+WO-2025-00418,02:9C:03:C2:BF:19,2025-09-24,2025-09-29,Routinepruefung,Kein Fehler gefunden,,1.46
+WO-2025-00417,0A:A2:F2:CA:B5:0B,2025-09-25,2025-10-11,Kunde meldet Ausfall,Fehler behoben,Gateway getauscht,1.23
+WO-2025-00414,0E:03:D8:F6:98:53,2025-09-25,2025-10-05,Haeufige Neustarts,Fehler behoben,Antenne,3.44
+WO-2025-00416,0A:BE:42:BE:41:65,2025-09-26,2025-10-12,Kunde meldet Ausfall,Kein Fehler gefunden,,1.4
+WO-2025-00419,0E:3D:06:A0:7E:94,2025-09-26,2025-10-12,Haeufige Neustarts,Kein Fehler gefunden,,0.72
+WO-2025-00420,0A:5D:01:7E:40:1E,2025-09-29,2025-10-03,Routinepruefung,Kein Fehler gefunden,,0.59
+WO-2025-00422,0E:3D:96:23:76:39,2025-09-29,2025-10-13,Zaehler nicht gelesen,Fehler behoben,Netzteil,1.71
+WO-2025-00424,02:13:26:77:32:8F,2025-09-30,2025-10-14,Haeufige Neustarts,Fehler behoben,Gateway getauscht,3.57
+WO-2025-00427,02:D7:62:35:52:C8,2025-09-30,2025-10-06,Routinepruefung,Kein Fehler gefunden,,0.78
+WO-2025-00430,0A:7A:C5:BD:AF:86,2025-09-30,2025-10-02,Routinepruefung,Kein Fehler gefunden,,0.5
+WO-2025-00423,0A:18:4A:2E:46:B7,2025-10-01,2025-10-05,Routinepruefung,Kein Fehler gefunden,,0.67
+WO-2025-00431,0A:63:24:E3:E0:43,2025-10-01,2025-10-08,Zaehler nicht gelesen,Fehler behoben,SIM-Karte,3.02
+WO-2025-00432,0E:89:F7:D5:B5:BD,2025-10-01,2025-10-09,Auffaellige Statistik,Kein Fehler gefunden,,1.57
+WO-2025-00429,0A:18:2E:FD:3C:61,2025-10-02,2025-10-14,Auffaellige Statistik,Kein Fehler gefunden,,0.62
+WO-2025-00428,0E:A0:44:7D:A9:1C,2025-10-02,2025-10-04,Zaehler nicht gelesen,Kein Fehler gefunden,,0.69
+WO-2025-00425,02:30:EE:F7:24:35,2025-10-03,2025-10-07,Routinepruefung,Kein Fehler gefunden,,1.14
+WO-2025-00426,06:F2:CD:BD:2C:41,2025-10-03,2025-10-10,Kunde meldet Ausfall,Kein Fehler gefunden,,1.15
+WO-2025-00433,0A:1F:B1:C9:8A:92,2025-10-03,2025-10-12,Haeufige Neustarts,Fehler behoben,Antenne,1.75
+WO-2025-00421,0A:4E:33:E2:69:2B,2025-10-03,2025-10-16,Kunde meldet Ausfall,Fehler behoben,,2.85
+WO-2025-00434,0E:9A:30:D9:27:A5,2025-10-03,2025-10-10,Auffaellige Statistik,Kein Fehler gefunden,,1.42
+WO-2025-00436,0A:68:A2:03:24:50,2025-10-06,2025-10-11,Keine Verbindung,Kein Fehler gefunden,,1.24
+WO-2025-00442,0E:A5:2A:2A:75:81,2025-10-06,2025-10-20,Keine Verbindung,Kein Fehler gefunden,,1.51
+WO-2025-00444,0A:46:73:79:3B:3E,2025-10-07,2025-10-16,Haeufige Neustarts,Kein Fehler gefunden,,1.54
+WO-2025-00440,0E:1B:6F:4D:BA:34,2025-10-07,2025-10-23,Kunde meldet Ausfall,Kein Fehler gefunden,,1.62
+WO-2025-00438,0E:8F:36:DA:B9:C2,2025-10-07,2025-10-10,Auffaellige Statistik,Kein Fehler gefunden,,1.42
+WO-2025-00439,02:3A:DD:DE:CF:84,2025-10-08,2025-10-18,Keine Verbindung,Fehler behoben,Kabel,1.61
+WO-2025-00445,0A:B6:B4:5C:77:5A,2025-10-08,2025-10-21,Zaehler nicht gelesen,Kein Fehler gefunden,,1.34
+WO-2025-00435,0A:F9:84:6E:92:DD,2025-10-08,2025-10-13,Keine Verbindung,Fehler behoben,SIM-Karte,3.55
+WO-2025-00447,0E:D4:05:2A:27:63,2025-10-08,2025-10-15,Zaehler nicht gelesen,Kein Fehler gefunden,,1.02
+WO-2025-00443,02:47:8C:D9:0F:3A,2025-10-09,2025-10-18,Auffaellige Statistik,Kein Zugang,,0.56
+WO-2025-00446,02:7D:07:FC:97:FC,2025-10-09,2025-10-11,Signal schwach,Kein Fehler gefunden,,1.67
+WO-2025-00437,0E:97:61:D8:EB:58,2025-10-09,2025-10-17,Kunde meldet Ausfall,Kein Fehler gefunden,,1.16
+WO-2025-00448,02:25:13:88:D3:A2,2025-10-10,2025-10-20,Auffaellige Statistik,Kein Fehler gefunden,,1.34
+WO-2025-00441,02:F1:8E:EE:02:8A,2025-10-10,2025-10-25,Zaehler nicht gelesen,Fehler behoben,,2.59
+WO-2025-00462,0A:39:83:03:30:84,2025-10-13,2025-10-28,Zaehler nicht gelesen,Kein Fehler gefunden,,1.2
+WO-2025-00449,02:E1:23:10:18:6C,2025-10-15,2025-10-23,Haeufige Neustarts,Fehler behoben,SIM-Karte,2.67
+WO-2025-00451,0A:EF:10:F3:A9:94,2025-10-15,2025-10-21,Zaehler nicht gelesen,Kein Zugang,,1.1
+WO-2025-00461,0E:5D:FC:F6:5A:D4,2025-10-15,2025-10-21,Auffaellige Statistik,Kein Fehler gefunden,,1.34
+WO-2025-00456,02:89:2F:51:E1:CB,2025-10-16,2025-10-31,Kunde meldet Ausfall,Fehler behoben,,2.04
+WO-2025-00459,06:1A:43:22:74:5C,2025-10-16,2025-10-19,Keine Verbindung,Kein Fehler gefunden,,1.76
+WO-2025-00450,06:65:C3:FE:6D:67,2025-10-16,2025-10-25,Routinepruefung,Kein Fehler gefunden,,1.38
+WO-2025-00454,06:71:1B:E6:AD:2A,2025-10-16,2025-10-22,Auffaellige Statistik,Kein Fehler gefunden,,1.29
+WO-2025-00455,06:F4:9B:D8:F5:72,2025-10-16,2025-10-23,Routinepruefung,Kein Fehler gefunden,,1.11
+WO-2025-00463,0E:1C:62:2E:61:BC,2025-10-16,2025-10-27,Auffaellige Statistik,Kein Fehler gefunden,,0.54
+WO-2025-00460,02:30:D2:61:A1:CD,2025-10-17,2025-10-31,Kunde meldet Ausfall,Fehler behoben,Antenne,1.71
+WO-2025-00453,02:38:8A:18:85:4F,2025-10-17,2025-10-19,Auffaellige Statistik,Kein Fehler gefunden,,0.95
+WO-2025-00458,06:4E:66:B5:36:7B,2025-10-17,2025-10-31,Routinepruefung,Kein Fehler gefunden,,1.55
+WO-2025-00457,0E:0A:8D:6E:B6:B9,2025-10-17,2025-11-02,Auffaellige Statistik,Kein Fehler gefunden,,1.72
+WO-2025-00452,0E:E7:8E:43:17:BB,2025-10-17,2025-10-28,Kunde meldet Ausfall,Fehler behoben,Netzteil,2.44
+WO-2025-00476,02:59:99:1B:A0:36,2025-10-20,2025-10-24,Zaehler nicht gelesen,Kein Fehler gefunden,,1.06
+WO-2025-00468,02:79:D2:AC:6A:CE,2025-10-20,2025-10-27,Kunde meldet Ausfall,Kein Fehler gefunden,,0.95
+WO-2025-00465,0E:61:D3:4F:99:93,2025-10-20,2025-11-05,Haeufige Neustarts,Fehler behoben,Netzteil,1.69
+WO-2025-00469,0E:E0:71:F7:B2:4A,2025-10-20,2025-10-24,Keine Verbindung,Kein Fehler gefunden,,1.85
+WO-2025-00471,02:3A:66:3E:FD:87,2025-10-21,2025-10-30,Kunde meldet Ausfall,Kein Fehler gefunden,,1.08
+WO-2025-00474,0E:AE:FE:AE:FB:09,2025-10-21,2025-11-05,Haeufige Neustarts,Kein Fehler gefunden,,0.96
+WO-2025-00470,0E:D0:84:9F:D6:D8,2025-10-21,2025-11-01,Zaehler nicht gelesen,Fehler behoben,Antenne,1.87
+WO-2025-00478,06:87:F3:6E:02:C6,2025-10-22,2025-10-29,Haeufige Neustarts,Kein Fehler gefunden,,1.63
+WO-2025-00466,0A:68:2E:D9:C6:DD,2025-10-22,2025-11-06,Kunde meldet Ausfall,Fehler behoben,Kabel,2.76
+WO-2025-00467,02:D4:9A:34:B2:FE,2025-10-23,2025-11-07,Haeufige Neustarts,Fehler behoben,,3.42
+WO-2025-00477,0A:27:78:A3:1B:E3,2025-10-23,2025-11-05,Auffaellige Statistik,Kein Fehler gefunden,,1.87
+WO-2025-00472,0A:68:DF:0B:3D:07,2025-10-23,2025-11-03,Keine Verbindung,Kein Zugang,,0.84
+WO-2025-00475,02:8B:24:EA:DD:AD,2025-10-24,2025-11-03,Zaehler nicht gelesen,Fehler behoben,Gateway getauscht,1.55
+WO-2025-00473,02:B7:42:64:6A:0E,2025-10-24,2025-11-03,Routinepruefung,Kein Fehler gefunden,,1.51
+WO-2025-00464,06:34:F7:8D:B4:C5,2025-10-24,2025-10-28,Keine Verbindung,Kein Fehler gefunden,,0.88
+WO-2025-00486,06:DA:F1:1B:D3:8F,2025-10-27,2025-11-04,Zaehler nicht gelesen,Fehler behoben,Antenne,1.77
+WO-2025-00484,0A:66:3B:6B:4B:28,2025-10-27,2025-10-29,Keine Verbindung,Kein Fehler gefunden,,1.43
+WO-2025-00479,0A:B5:F9:C2:1B:F8,2025-10-27,2025-10-31,Haeufige Neustarts,Kein Fehler gefunden,,0.68
+WO-2025-00481,02:FB:DD:4A:2C:43,2025-10-28,2025-11-10,Keine Verbindung,Kein Fehler gefunden,,0.87
+WO-2025-00490,0A:61:E3:16:51:58,2025-10-28,2025-11-05,Haeufige Neustarts,Kein Fehler gefunden,,0.98
+WO-2025-00483,0A:FE:70:2B:B0:93,2025-10-28,2025-11-03,Auffaellige Statistik,Kein Fehler gefunden,,0.99
+WO-2025-00487,06:C0:D5:E3:BC:DB,2025-10-29,2025-11-13,Routinepruefung,Kein Zugang,,1.06
+WO-2025-00480,0A:23:47:4F:19:44,2025-10-29,2025-11-10,Auffaellige Statistik,Kein Fehler gefunden,,1.09
+WO-2025-00485,0A:DD:02:AB:69:3D,2025-10-30,2025-11-15,Routinepruefung,Kein Fehler gefunden,,0.9
+WO-2025-00488,0E:8C:F9:CA:52:6F,2025-10-30,2025-11-12,Haeufige Neustarts,Kein Fehler gefunden,,1.28
+WO-2025-00489,02:14:58:26:10:3B,2025-10-31,2025-11-12,Haeufige Neustarts,Fehler behoben,,3.46
+WO-2025-00482,0E:12:1B:6B:86:61,2025-10-31,2025-11-06,Kunde meldet Ausfall,Fehler behoben,,3.36
+WO-2025-00494,02:45:70:73:9D:E0,2025-11-03,2025-11-18,Keine Verbindung,Fehler behoben,Gateway getauscht,3.01
+WO-2025-00498,06:93:57:B9:F1:5F,2025-11-03,2025-11-09,Haeufige Neustarts,Kein Fehler gefunden,,0.56
+WO-2025-00502,0A:5D:01:7E:40:1E,2025-11-03,2025-11-05,Zaehler nicht gelesen,Kein Fehler gefunden,,0.59
+WO-2025-00505,06:9A:98:DE:EB:1D,2025-11-04,2025-11-08,Signal schwach,Kein Fehler gefunden,,1.22
+WO-2025-00503,0A:42:B2:DB:63:70,2025-11-04,2025-11-06,Auffaellige Statistik,Kein Fehler gefunden,,1.43
+WO-2025-00495,0A:7A:C5:BD:AF:86,2025-11-04,2025-11-12,Keine Verbindung,Fehler behoben,,2.27
+WO-2025-00492,0A:A4:73:D2:FC:17,2025-11-04,2025-11-17,Keine Verbindung,Fehler behoben,SIM-Karte,3.25
+WO-2025-00491,02:C0:F4:5F:31:E7,2025-11-05,2025-11-10,Zaehler nicht gelesen,Fehler behoben,SIM-Karte,1.94
+WO-2025-00501,02:F5:CE:77:05:EC,2025-11-05,2025-11-10,Kunde meldet Ausfall,Fehler behoben,Gateway getauscht,2.15
+WO-2025-00497,0E:89:F7:D5:B5:BD,2025-11-05,2025-11-14,Auffaellige Statistik,Kein Fehler gefunden,,1.79
+WO-2025-00493,0E:A0:44:7D:A9:1C,2025-11-05,2025-11-17,Keine Verbindung,Fehler behoben,Gateway getauscht,3.22
+WO-2025-00496,0A:4C:88:4F:24:0A,2025-11-06,2025-11-12,Keine Verbindung,Fehler behoben,Netzteil,3.55
+WO-2025-00499,02:09:1D:F7:CC:B8,2025-11-07,2025-11-09,Signal schwach,Kein Fehler gefunden,,1.77
+WO-2025-00500,06:13:2D:73:96:F8,2025-11-07,2025-11-24,Kunde meldet Ausfall,Fehler behoben,Kabel,1.63
+WO-2025-00504,0E:B6:B3:1D:8A:FB,2025-11-07,2025-11-13,Zaehler nicht gelesen,Kein Fehler gefunden,,1.07
+WO-2025-00515,02:2C:6F:32:6E:3B,2025-11-11,2025-11-18,Kunde meldet Ausfall,Kein Fehler gefunden,,0.56
+WO-2025-00518,0A:BD:2E:51:3F:79,2025-11-11,2025-11-28,Signal schwach,Kein Fehler gefunden,,1.37
+WO-2025-00519,0A:D2:C9:2E:97:56,2025-11-11,2025-11-19,Kunde meldet Ausfall,Fehler behoben,Kabel,3.48
+WO-2025-00517,0A:FF:C2:63:C0:D9,2025-11-11,2025-11-26,Kunde meldet Ausfall,Fehler behoben,,3.29
+WO-2025-00511,0E:F0:84:81:B3:33,2025-11-11,2025-11-18,Haeufige Neustarts,Kein Fehler gefunden,,0.54
+WO-2025-00516,02:7D:07:FC:97:FC,2025-11-12,2025-11-17,Haeufige Neustarts,Fehler behoben,,3.17
+WO-2025-00508,0A:96:EA:CD:80:70,2025-11-12,2025-11-20,Zaehler nicht gelesen,Fehler behoben,Netzteil,3.65
+WO-2025-00510,02:8C:C0:AE:57:19,2025-11-13,2025-11-21,Haeufige Neustarts,Fehler behoben,,1.68
+WO-2025-00507,0E:5C:D9:B1:9D:CB,2025-11-13,2025-11-24,Keine Verbindung,Fehler behoben,Gateway getauscht,1.38
+WO-2025-00509,0E:BF:1B:27:CD:E1,2025-11-13,2025-11-26,Keine Verbindung,Fehler behoben,Kabel,3.76
+WO-2025-00513,06:5C:00:3A:8D:0C,2025-11-14,2025-11-24,Routinepruefung,Kein Fehler gefunden,,1.85
+WO-2025-00514,0A:4E:33:E2:69:2B,2025-11-14,2025-11-26,Signal schwach,Kein Fehler gefunden,,1.07
+WO-2025-00506,0A:52:DD:E8:96:BF,2025-11-14,2025-11-19,Auffaellige Statistik,Kein Fehler gefunden,,1.45
+WO-2025-00512,0A:F9:84:6E:92:DD,2025-11-14,2025-11-21,Haeufige Neustarts,Fehler behoben,Kabel,3.63
+WO-2025-00524,02:F1:8E:EE:02:8A,2025-11-17,2025-11-23,Haeufige Neustarts,Kein Fehler gefunden,,1.31
+WO-2025-00526,0A:A3:F1:8D:E5:50,2025-11-17,2025-11-28,Routinepruefung,Kein Fehler gefunden,,0.7
+WO-2025-00528,06:23:8E:E3:BE:6C,2025-11-18,2025-11-26,Signal schwach,Kein Fehler gefunden,,0.75
+WO-2025-00527,0A:B6:B4:5C:77:5A,2025-11-18,2025-12-01,Signal schwach,Kein Fehler gefunden,,1.59
+WO-2025-00521,06:1A:43:22:74:5C,2025-11-19,2025-11-23,Signal schwach,Kein Fehler gefunden,,1.39
+WO-2025-00523,06:C9:8D:F4:F0:FA,2025-11-19,2025-11-30,Haeufige Neustarts,Kein Fehler gefunden,,1.83
+WO-2025-00522,06:FF:EC:2E:FA:5E,2025-11-19,2025-11-28,Keine Verbindung,Fehler behoben,Gateway getauscht,1.24
+WO-2025-00520,0A:68:A2:03:24:50,2025-11-20,2025-12-03,Haeufige Neustarts,Fehler behoben,Gateway getauscht,1.72
+WO-2025-00525,0E:6A:CE:6D:31:46,2025-11-21,2025-11-27,Signal schwach,Kein Zugang,,0.66
+WO-2025-00533,06:D8:45:98:CC:B4,2025-11-24,2025-12-06,Zaehler nicht gelesen,Fehler behoben,,2.11
+WO-2025-00536,0E:55:F2:8A:B5:69,2025-11-25,2025-11-27,Auffaellige Statistik,Kein Fehler gefunden,,1.28
+WO-2025-00532,02:78:E0:6A:2F:67,2025-11-26,2025-12-09,Routinepruefung,Kein Fehler gefunden,,1.56
+WO-2025-00531,06:2E:A1:13:79:8F,2025-11-26,2025-12-12,Keine Verbindung,Fehler behoben,Kabel,3.65
+WO-2025-00529,0A:55:DA:26:6F:71,2025-11-26,2025-11-29,Routinepruefung,Kein Fehler gefunden,,1.77
+WO-2025-00534,0A:C4:37:02:3B:18,2025-11-26,2025-12-11,Haeufige Neustarts,Fehler behoben,SIM-Karte,1.76
+WO-2025-00530,0E:D4:05:2A:27:63,2025-11-26,2025-12-03,Keine Verbindung,Fehler behoben,Antenne,3.49
+WO-2025-00539,0A:1F:B1:C9:8A:92,2025-11-27,2025-12-04,Haeufige Neustarts,Fehler behoben,,3.41
+WO-2025-00540,02:7B:2D:C4:EA:84,2025-11-28,2025-12-13,Kunde meldet Ausfall,Fehler behoben,Kabel,1.59
+WO-2025-00535,06:50:9A:84:E8:73,2025-11-28,2025-12-13,Haeufige Neustarts,Fehler behoben,Netzteil,1.51
+WO-2025-00538,0A:78:FA:F4:7B:00,2025-11-28,2025-12-07,Haeufige Neustarts,Kein Fehler gefunden,,0.68
+WO-2025-00537,0E:0C:3E:B7:91:5D,2025-11-28,2025-11-30,Auffaellige Statistik,Kein Fehler gefunden,,1.51
+WO-2025-00543,02:57:E8:55:DB:CE,2025-12-01,2025-12-03,Haeufige Neustarts,Kein Fehler gefunden,,1.35
+WO-2025-00548,02:09:7A:B5:8D:3C,2025-12-02,2025-12-09,Haeufige Neustarts,Kein Fehler gefunden,,1.88
+WO-2025-00542,06:F2:CD:BD:2C:41,2025-12-02,2025-12-13,Haeufige Neustarts,Kein Fehler gefunden,,1.86
+WO-2025-00546,0A:F8:DC:B9:8E:4B,2025-12-02,2025-12-08,Haeufige Neustarts,Fehler behoben,Netzteil,3.19
+WO-2025-00544,02:B5:C5:AD:C7:92,2025-12-03,2025-12-08,Keine Verbindung,Fehler behoben,SIM-Karte,2.17
+WO-2025-00550,06:4B:E1:9B:0A:9E,2025-12-03,2025-12-14,Signal schwach,Kein Fehler gefunden,,1.62
+WO-2025-00547,0A:48:56:68:F5:C0,2025-12-03,2025-12-16,Zaehler nicht gelesen,Kein Fehler gefunden,,0.91
+WO-2025-00541,0A:B5:F9:C2:1B:F8,2025-12-03,2025-12-13,Kunde meldet Ausfall,Fehler behoben,SIM-Karte,2.97
+WO-2025-00545,02:A8:02:92:CB:97,2025-12-04,2025-12-13,Haeufige Neustarts,Fehler behoben,Kabel,3.65
+WO-2025-00549,0E:61:D3:4F:99:93,2025-12-04,2025-12-18,Routinepruefung,Kein Fehler gefunden,,0.53
+WO-2025-00554,02:D4:9A:34:B2:FE,2025-12-08,2025-12-25,Kunde meldet Ausfall,Fehler behoben,Netzteil,1.62
+WO-2025-00558,06:9A:98:DE:EB:1D,2025-12-08,2025-12-13,Haeufige Neustarts,Kein Fehler gefunden,,0.78
+WO-2025-00562,02:38:8A:18:85:4F,2025-12-09,2025-12-20,Keine Verbindung,Kein Fehler gefunden,,1.27
+WO-2025-00563,0E:B6:B3:1D:8A:FB,2025-12-09,2025-12-26,Zaehler nicht gelesen,Kein Fehler gefunden,,0.9
+WO-2025-00553,0A:62:EE:CE:EB:D1,2025-12-10,2025-12-17,Keine Verbindung,Fehler behoben,,1.55
+WO-2025-00555,0A:D2:76:FC:5E:27,2025-12-10,2025-12-21,Haeufige Neustarts,Fehler behoben,,2.48
+WO-2025-00556,0E:11:3B:01:A9:A2,2025-12-10,2025-12-25,Haeufige Neustarts,Fehler behoben,Gateway getauscht,1.21
+WO-2025-00557,02:4E:D4:33:BF:7D,2025-12-11,2025-12-25,Zaehler nicht gelesen,Kein Fehler gefunden,,0.75
+WO-2025-00561,0A:E2:1E:7A:17:E4,2025-12-11,2025-12-20,Signal schwach,Kein Fehler gefunden,,0.94
+WO-2025-00560,0E:A0:44:7D:A9:1C,2025-12-11,2025-12-22,Kunde meldet Ausfall,Kein Fehler gefunden,,1.57
+WO-2025-00559,0E:DC:71:77:CC:A9,2025-12-11,2025-12-18,Zaehler nicht gelesen,Fehler behoben,SIM-Karte,1.58
+WO-2025-00551,02:57:E8:55:DB:CE,2025-12-12,2025-12-15,Zaehler nicht gelesen,Fehler behoben,Netzteil,1.7
+WO-2025-00552,06:93:57:B9:F1:5F,2025-12-12,2025-12-19,Haeufige Neustarts,Fehler behoben,Kabel,2.68
+WO-2025-00564,02:59:99:1B:A0:36,2025-12-15,2025-12-17,Auffaellige Statistik,Kein Fehler gefunden,,1.23
+WO-2025-00569,02:8C:C0:AE:57:19,2025-12-15,2025-12-31,Keine Verbindung,Fehler behoben,,1.66
+WO-2025-00577,0A:10:20:1A:FE:0A,2025-12-15,2025-12-26,Routinepruefung,Kein Fehler gefunden,,1.24
+WO-2025-00574,02:32:70:32:0B:57,2025-12-16,2025-12-24,Auffaellige Statistik,Kein Fehler gefunden,,1.74
+WO-2025-00570,0A:0B:47:66:4A:85,2025-12-16,2025-12-24,Keine Verbindung,Kein Fehler gefunden,,1.88
+WO-2025-00575,0E:34:28:2F:4B:53,2025-12-16,2025-12-21,Routinepruefung,Kein Zugang,,1.57
+WO-2025-00572,0E:D1:E9:DB:D5:93,2025-12-16,2025-12-30,Kunde meldet Ausfall,Kein Fehler gefunden,,0.73
+WO-2025-00566,02:B7:42:64:6A:0E,2025-12-17,2026-01-01,Auffaellige Statistik,Kein Fehler gefunden,,1.81
+WO-2025-00576,02:DC:03:A0:F1:E6,2025-12-18,2026-01-02,Signal schwach,Kein Fehler gefunden,,0.7
+WO-2025-00567,06:65:C3:FE:6D:67,2025-12-18,2025-12-29,Kunde meldet Ausfall,Kein Fehler gefunden,,1.46
+WO-2025-00565,0E:0A:8D:6E:B6:B9,2025-12-18,2025-12-24,Keine Verbindung,Fehler behoben,Netzteil,2.45
+WO-2025-00573,02:F5:CE:77:05:EC,2025-12-19,2025-12-23,Auffaellige Statistik,Kein Fehler gefunden,,1.28
+WO-2025-00571,06:85:53:B3:AA:23,2025-12-19,2026-01-05,Keine Verbindung,Fehler behoben,,1.91
+WO-2025-00568,0A:A1:8F:33:0F:59,2025-12-19,2025-12-25,Keine Verbindung,Fehler behoben,Antenne,2.27
+WO-2025-00580,0A:95:47:C1:1A:56,2025-12-22,2026-01-03,Kunde meldet Ausfall,Fehler behoben,Kabel,3.73
+WO-2025-00591,0E:E7:8E:43:17:BB,2025-12-22,2026-01-04,Routinepruefung,Kein Zugang,,1.89
+WO-2025-00587,02:17:82:0B:FF:B2,2025-12-23,2025-12-30,Signal schwach,Kein Fehler gefunden,,1.15
+WO-2025-00592,02:32:57:D2:93:66,2025-12-23,2026-01-05,Auffaellige Statistik,Kein Fehler gefunden,,0.86
+WO-2025-00586,02:42:3E:0E:6E:9F,2025-12-24,2025-12-27,Haeufige Neustarts,Kein Fehler gefunden,,1.31
+WO-2025-00578,02:59:99:1B:A0:36,2025-12-24,2025-12-28,Signal schwach,Kein Fehler gefunden,,0.69
+WO-2025-00583,0A:46:73:79:3B:3E,2025-12-24,2025-12-31,Signal schwach,Kein Fehler gefunden,,0.81
+WO-2025-00590,0E:E3:17:BA:7C:52,2025-12-24,2026-01-07,Keine Verbindung,Kein Fehler gefunden,,1.9
+WO-2025-00582,0E:E9:49:79:50:EE,2025-12-24,2025-12-28,Zaehler nicht gelesen,Kein Fehler gefunden,,1.56
+WO-2025-00584,06:B1:62:DC:93:E3,2025-12-25,2025-12-28,Zaehler nicht gelesen,Kein Fehler gefunden,,1.39
+WO-2025-00588,0A:7A:AF:DD:9E:11,2025-12-25,2026-01-01,Haeufige Neustarts,Fehler behoben,,3.48
+WO-2025-00589,0E:46:21:88:40:8C,2025-12-25,2026-01-01,Kunde meldet Ausfall,Kein Fehler gefunden,,0.63
+WO-2025-00581,02:09:1D:F7:CC:B8,2025-12-26,2026-01-10,Kunde meldet Ausfall,Fehler behoben,,3.4
+WO-2025-00579,02:F1:8E:EE:02:8A,2025-12-26,2025-12-31,Keine Verbindung,Fehler behoben,Netzteil,1.58
+WO-2025-00585,0A:A2:96:FF:24:7D,2025-12-26,2026-01-11,Zaehler nicht gelesen,Kein Fehler gefunden,,1.12
+WO-2025-00594,02:D4:DF:EF:40:2A,2025-12-29,2026-01-03,Routinepruefung,Kein Fehler gefunden,,0.9
+WO-2025-00596,0E:69:C6:4B:6E:57,2025-12-29,2026-01-03,Auffaellige Statistik,Kein Fehler gefunden,,0.84
+WO-2025-00597,02:31:4F:9A:91:68,2025-12-30,2026-01-01,Keine Verbindung,Kein Zugang,,1.01
+WO-2025-00593,02:59:99:1B:A0:36,2025-12-31,2026-01-14,Keine Verbindung,Fehler behoben,,2.88
+WO-2026-00595,06:D7:F6:C7:3E:0C,2026-01-01,2026-01-07,Keine Verbindung,Fehler behoben,Netzteil,3.62
+WO-2026-00600,0E:75:2F:1B:29:5C,2026-01-01,2026-01-05,Kunde meldet Ausfall,Fehler behoben,Netzteil,1.54
+WO-2026-00601,0E:EC:B1:08:FF:91,2026-01-01,2026-01-18,Auffaellige Statistik,Kein Fehler gefunden,,0.62
+WO-2026-00599,0A:FF:C2:63:C0:D9,2026-01-02,2026-01-05,Zaehler nicht gelesen,Kein Fehler gefunden,,1.74
+WO-2026-00598,0E:55:F2:8A:B5:69,2026-01-02,2026-01-04,Zaehler nicht gelesen,Kein Fehler gefunden,,1.11
+WO-2026-00610,02:7F:E9:CE:D4:89,2026-01-05,2026-01-10,Auffaellige Statistik,Kein Zugang,,1.48
+WO-2026-00602,02:89:2F:51:E1:CB,2026-01-05,2026-01-07,Haeufige Neustarts,Kein Fehler gefunden,,1.81
+WO-2026-00604,02:BA:D9:19:85:5D,2026-01-06,2026-01-16,Zaehler nicht gelesen,Fehler behoben,Gateway getauscht,2.51
+WO-2026-00607,0A:7A:C5:BD:AF:86,2026-01-06,2026-01-11,Auffaellige Statistik,Kein Fehler gefunden,,0.51
+WO-2026-00603,0A:F8:DC:B9:8E:4B,2026-01-06,2026-01-23,Auffaellige Statistik,Kein Zugang,,1.59
+WO-2026-00612,02:E1:23:10:18:6C,2026-01-07,2026-01-20,Zaehler nicht gelesen,Fehler behoben,Netzteil,3.39
+WO-2026-00609,0A:66:3B:6B:4B:28,2026-01-07,2026-01-24,Auffaellige Statistik,Kein Fehler gefunden,,1.06
+WO-2026-00605,0A:96:EA:CD:80:70,2026-01-08,2026-01-21,Keine Verbindung,Kein Fehler gefunden,,1.87
+WO-2026-00606,0E:7A:8A:54:14:C2,2026-01-08,2026-01-16,Zaehler nicht gelesen,Fehler behoben,Kabel,3.73
+WO-2026-00611,0E:E0:9E:DA:64:9F,2026-01-08,2026-01-21,Zaehler nicht gelesen,Kein Fehler gefunden,,1.19
+WO-2026-00608,0A:80:01:88:C2:0F,2026-01-09,2026-01-26,Kunde meldet Ausfall,Kein Fehler gefunden,,1.16
+WO-2026-00619,02:CF:FA:3A:3F:35,2026-01-12,2026-01-28,Keine Verbindung,Kein Fehler gefunden,,0.65
+WO-2026-00616,06:4C:94:C7:71:EC,2026-01-12,2026-01-25,Haeufige Neustarts,Fehler behoben,SIM-Karte,2.8
+WO-2026-00614,02:8B:24:EA:DD:AD,2026-01-13,2026-01-22,Kunde meldet Ausfall,Fehler behoben,Netzteil,2.66
+WO-2026-00617,0E:8C:F9:CA:52:6F,2026-01-13,2026-01-28,Kunde meldet Ausfall,Kein Fehler gefunden,,1.55
+WO-2026-00618,06:EA:13:6A:29:96,2026-01-15,2026-01-28,Kunde meldet Ausfall,Kein Fehler gefunden,,1.89
+WO-2026-00613,02:4D:D3:A9:AD:CA,2026-01-16,2026-01-24,Haeufige Neustarts,Fehler behoben,,2.7
+WO-2026-00615,0E:41:CF:7F:74:D5,2026-01-16,2026-01-18,Signal schwach,Kein Fehler gefunden,,1.01
+WO-2026-00624,06:FF:EC:2E:FA:5E,2026-01-19,2026-02-03,Keine Verbindung,Fehler behoben,Netzteil,1.76
+WO-2026-00626,0A:9A:3B:FD:6C:9B,2026-01-19,2026-01-27,Keine Verbindung,Kein Fehler gefunden,,0.73
+WO-2026-00627,0E:0E:29:96:F5:1A,2026-01-19,2026-02-03,Kunde meldet Ausfall,Kein Fehler gefunden,,1.12
+WO-2026-00630,0E:6D:2C:BA:ED:41,2026-01-19,2026-01-28,Haeufige Neustarts,Kein Fehler gefunden,,1.15
+WO-2026-00623,02:39:AD:51:B7:AF,2026-01-20,2026-01-28,Signal schwach,Kein Fehler gefunden,,0.72
+WO-2026-00629,06:AA:A2:8A:5D:6B,2026-01-20,2026-01-25,Routinepruefung,Kein Fehler gefunden,,0.94
+WO-2026-00625,02:6A:60:07:FA:48,2026-01-22,2026-01-30,Routinepruefung,Kein Fehler gefunden,,1.63
+WO-2026-00620,0E:5C:D9:B1:9D:CB,2026-01-22,2026-01-29,Zaehler nicht gelesen,Fehler behoben,Antenne,2.14
+WO-2026-00622,0E:89:2C:46:A4:42,2026-01-22,2026-02-04,Zaehler nicht gelesen,Kein Fehler gefunden,,1.76
+WO-2026-00628,02:38:8A:18:85:4F,2026-01-23,2026-01-27,Auffaellige Statistik,Kein Fehler gefunden,,1.76
+WO-2026-00621,06:9A:98:DE:EB:1D,2026-01-23,2026-01-27,Auffaellige Statistik,Kein Fehler gefunden,,1.19
+WO-2026-00642,0A:56:8E:79:FE:F6,2026-01-26,2026-02-10,Zaehler nicht gelesen,Kein Fehler gefunden,,1.61
+WO-2026-00633,0A:D2:76:FC:5E:27,2026-01-26,2026-02-08,Kunde meldet Ausfall,Kein Fehler gefunden,,0.9
+WO-2026-00635,02:42:3E:0E:6E:9F,2026-01-27,2026-02-09,Zaehler nicht gelesen,Fehler behoben,Gateway getauscht,3.8
+WO-2026-00637,02:9A:2B:32:D1:7E,2026-01-27,2026-02-01,Kunde meldet Ausfall,Kein Fehler gefunden,,1.47
+WO-2026-00639,02:9D:A2:6B:1A:92,2026-01-28,2026-01-30,Zaehler nicht gelesen,Kein Fehler gefunden,,0.93
+WO-2026-00638,0A:BE:42:BE:41:65,2026-01-28,2026-02-14,Routinepruefung,Kein Fehler gefunden,,1.7
+WO-2026-00640,06:4A:ED:1E:C0:AA,2026-01-29,2026-02-07,Haeufige Neustarts,Fehler behoben,Gateway getauscht,3.37
+WO-2026-00631,0A:1F:B1:C9:8A:92,2026-01-29,2026-02-14,Keine Verbindung,Fehler behoben,,3.28
+WO-2026-00636,0A:57:33:86:57:F8,2026-01-29,2026-02-07,Signal schwach,Kein Fehler gefunden,,0.87
+WO-2026-00641,0A:6C:57:1A:15:50,2026-01-29,2026-02-08,Zaehler nicht gelesen,Kein Zugang,,0.85
+WO-2026-00634,0A:25:F6:E3:46:6C,2026-01-30,2026-02-02,Keine Verbindung,Kein Fehler gefunden,,1.61
+WO-2026-00632,0E:9A:30:D9:27:A5,2026-01-30,2026-02-06,Haeufige Neustarts,Fehler behoben,Antenne,3.13

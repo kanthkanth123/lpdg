@@ -1,0 +1,7 @@
+{
+  "model_type": "HistGradientBoostingClassifier",
+  "random_state": 42,
+  "training_label": "field visit in following 7 days (proxy only)",
+  "feature_count": 16,
+  "model_config_sha256": "4f404512695162a41942178be51de6556795a4916ee3cea8b553dd65790bf1d6"
+}
